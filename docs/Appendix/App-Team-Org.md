@@ -13,12 +13,11 @@ List at least five shared goals that reflect a successful product with regard to
 
 _**Appendix Table 1**: Team Member Communication Modes_
 
-|Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
-|---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Name                 | First Choice Messages Group Chat | Second Choice Email | Third Choice               |
+|---------------------|----------------------------------|---------------------|----------------------------|
+|Donovan Belt   | (505) 208-2530 | ?                | ? |
+|AJ Bowers      | (480) 652-5631 | ?                | ? |
+|Justin Gonzalez| (480) 479-3990 | jjgonz43@asu.edu | ? |
 
 ### Main Method for Group Communication
 
