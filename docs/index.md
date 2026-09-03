@@ -28,5 +28,5 @@ Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Donovan Belt           | link |
 | AJ Bowers              | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Justin Gonzalez        | [Justin Gonzalez.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/](https://jjgonz26.github.io/jjgonz26_EGR304_F26.github.io/)) |
+| Justin Gonzalez        | [Justin Gonzalez.GitHub](https://jjgonz26.github.io/jjgonz26_EGR304_F26.github.io/) |
 | Name #4                | link |
