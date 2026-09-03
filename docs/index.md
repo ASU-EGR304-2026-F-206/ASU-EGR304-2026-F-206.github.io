@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
-Semester and Year<br>
+<font size="5">Team 206<br>
+**Submission: December, 07, 2026**<br>
+Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Kevin Nichols<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
+| Donovan Belt           | link |
+| AJ Bowers              | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
+| Justin Gonzalez        | [Justin Gonzalez.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/](https://jjgonz26.github.io/jjgonz26_EGR304_F26.github.io/)) |
 | Name #4                | link |
