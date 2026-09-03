@@ -72,9 +72,9 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :------------| :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Meeting leader: Justin  | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting recorder: AJ  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Assignment leader: AJ| Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor: Donovan | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 1. Roles will be changed every two weeks on Wednesday.
