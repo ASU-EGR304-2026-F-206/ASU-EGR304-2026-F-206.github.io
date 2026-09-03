@@ -15,9 +15,9 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice: Messages Group Chat | Second Choice: Email | Third Choice: Zoom Link               |
 |---------------------|---------------------|---------------------|---------------------|
-|Donovan Belt   | (505) 208-2530 | dbelt808@gmail.com   | ? |
-|AJ Bowers  | (480) 652-5631 | ?                | ? |
-|Justin Gonzalez| (480) 479-3990 | jjgonz43@asu.edu | ? |
+|Donovan Belt   | (505) 208-2530 | dbelt808@gmail.com   | https://asu.zoom.us/j/84841027398 |
+|AJ Bowers  | (480) 652-5631 | ajbower5@asu.edu | https://asu.zoom.us/j/84841027398 |
+|Justin Gonzalez| (480) 479-3990 | jjgonz43@asu.edu | https://asu.zoom.us/j/84841027398 |
 
 ### Main Method for Group Communication
 
