@@ -36,17 +36,17 @@ _**Appendix Table 2**: Weekly Schedule_
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | J | - | J | J | - |
-| 9:00 AM | - | - | J | J | J | J | - |
-| 10:00 AM | - | - | J | J | J | J | J |
-| 11:00 AM | - | - | J | J | J | J | J |
-| 12:00 PM | - | A | J | A, J | J | A, J | J |
-| 1:00 PM | - | J | J | J | J | A, J | A, J |
-| 2:00 PM | - | J | J | J | J | A, J | A, J |
-| 3:00 PM | - | - | A | - | A | A | A |
-| 4:00 PM | - | A | A | A | A | A | A |
-| 5:00 PM | - | A | A | A | A | A | A |
-| 6:00 PM | - | J | - | J | J | - | - |
-| 7:00 PM | - | J | - | J | J | - | - |
+| 9:00 AM | - | - | J | D, J | J | J | - |
+| 10:00 AM | - | - | J | D, J | J | J | D, J |
+| 11:00 AM | - | D | J | D, J | J | D, J | D, J |
+| 12:00 PM | - | D, A | D, J | A, J | J | D, A, J | J |
+| 1:00 PM | - | D, J | J | D, J | J | D, A, J | D, A, J |
+| 2:00 PM | - | D, J | D, J | D, J | J | D, A, J | A, J |
+| 3:00 PM | - | D | D, A | D | D, A | D, A | A |
+| 4:00 PM | - | D, A | D, A | D | D, A | A | A |
+| 5:00 PM | - | D, A | D, A | A | D, A | A | A |
+| 6:00 PM | - | J | - | D, J | D, J | - | - |
+| 7:00 PM | - | J | - | J | D, J | - | - |
 | 8:00 PM | - | J | - | J | - | - | - |
 | 9:00 PM | - | - | - | - | - | - | - |
 
@@ -103,4 +103,4 @@ _**Appendix Table 2**: Project Roles and Duties_
 ## Signatures
 
 Justin Gonzalez 206
-
+Donovan Belt 206
