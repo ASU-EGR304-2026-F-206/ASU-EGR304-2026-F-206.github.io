@@ -39,7 +39,7 @@ _**Appendix Table 2**: Weekly Schedule_
 | 9:00 AM | - | - | J | D, J | J | J | - |
 | 10:00 AM | - | - | J | D, J | J | J | D, J |
 | 11:00 AM | - | D | J | D, J | J | D, J | D, J |
-| 12:00 PM | - | D, A | D, J | A, J | J | D, A, J | J |
+| 12:00 PM | - | D, A,J | D, J | A, J | J | D, A, J | J |
 | 1:00 PM | - | D, J | J | D, J | J | D, A, J | D, A, J |
 | 2:00 PM | - | D, J | D, J | D, J | J | D, A, J | A, J |
 | 3:00 PM | - | D | D, A | D | D, A | D, A | A |
@@ -58,6 +58,7 @@ _**Table Legend for Appendix Table 2**_
 | AJ | A |
 | Justin | J |
 
+\*Weekly Meetings will most likely either be on Fridays or before class on Mondays.\*
 
 ## Meeting Coordination
 
@@ -103,4 +104,6 @@ _**Appendix Table 2**: Project Roles and Duties_
 ## Signatures
 
 Justin Gonzalez 206
+
 Donovan Belt 206
+
