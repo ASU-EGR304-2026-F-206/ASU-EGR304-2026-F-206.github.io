@@ -8,6 +8,11 @@ tags:
 ## Team Goals
 
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1. Get a good understanding for the topics in the class
+2. Help each other out when they need it or when helping each other is allowed
+3. Show up to planned meeting unless an emergency happens on the day of said meeting
+4. Treat each other with respect and kindness
+5. 
 
 ## Communication Channels
 
@@ -106,4 +111,6 @@ _**Appendix Table 2**: Project Roles and Duties_
 Justin Gonzalez 206
 
 Donovan Belt 206
+
+A.J. Bowers 206
 
