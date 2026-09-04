@@ -27,5 +27,5 @@ Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Donovan Belt           | [Donovan Belt.GitHub](https://dbelt2-ux.github.io/dbelt2.github.io/)|
-| AJ Bowers              | link |
+| AJ Bowers              | [Andrew Bowers.GitHUb](https://ajbower5-netizen.github.io/)|
 | Justin Gonzalez        | [Justin Gonzalez.GitHub](https://jjgonz26.github.io/jjgonz26_EGR304_F26.github.io/) |
