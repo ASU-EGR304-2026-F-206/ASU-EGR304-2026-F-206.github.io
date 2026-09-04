@@ -9,6 +9,7 @@ tags:
 <font size="5">Team 206<br>
 **Submission: December, 07, 2026**<br>
 Fall 2026<br>
+Members: Donovan Belt, AJ Bowers, Justin Gonzalez<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Kevin Nichols<br>
