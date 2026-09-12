@@ -266,23 +266,23 @@ title: User Needs and Benchmarking
 
 ### Search #7
 
-**Keywords:** "enter keywords"
+**Keywords:** "alarm clock"
 
-**Search Results Link:** (Enter link to search results)
+**Search Results Link:**  [https://www.amazon.com/s?k=alarm+clock&crid=3MBVRPEN738WG&sprefix=alarm+clock%2Caps%2C273&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_ci_hl-bn-left_1_11](https://www.amazon.com/s?k=alarm+clock&crid=3MBVRPEN738WG&sprefix=alarm+clock%2Caps%2C273&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_ci_hl-bn-left_1_11)
 
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 1. [Amazon Basics Small Digital Oval Alarm Clock](https://www.amazon.com/AmazonBasics-Digital-Alarm-Clock-Nightlight/dp/B07DQWT15Y/ref=sr_1_5?crid=R3LPRDMAV9XB&dib=eyJ2IjoiMSJ9.GvlP8__F2TsZW0DyquMRhlKQl97JGiD33LZAry2Hti71kQsIs8ODBRUEsPQneCjB4B-bXmvRRWiWtNT_mM1X6BTX_BtX4q1X0jABG-cYIy2g2ZXsUun72c7qOKwVUcI9v_ZBy6H4aCTfptkbllBqy8I7PutASCSOfDab-CDiEQhgXmPdOqNe8Cha-h84yfq5TMZO7gyn_s4tWoJ4LXIgbAoajAba3UKb5cGE9KPamib5XkYSZs2oVbVs6hc_U0IGB0o7ePlYFiW2IAYOTzXDQP6tMkUvk6j5i5JPf3_eqQ0.MFZ1ZPqr4Sv1LijWulsZgOqkY1rGI1DAP8WIclNJ12A&dib_tag=se&keywords=alarm%2Bclock&qid=1789154459&sprefix=alarm%2Bclock%2Caps%2C233&sr=8-5&th=1) < (link to the product)
 
-![](enter image of product)
 
-**(include a picture)**
 
-* Price: 
+![Amazon Basics Digital Alarm Clock](https://m.media-amazon.com/images/I/61j17FjPhtL._AC_SX679_.jpg)
 
-* Vendor: 
+* Price: $10
 
-* Description: 
+* Vendor: Amazon
+
+* Description: Digital Alarm clock with a 0.7 inch LED display, featuring a built in night light, AC powered with integrated power supply, and a repeating snooze feature. Batteries are used as a backup power source to ensure time and alarms are retained in memory for 8 hours.
 
 ##### Positive Comments
 
@@ -303,23 +303,23 @@ title: User Needs and Benchmarking
 
 ### Search #8
 
-**Keywords:** "enter keywords"
+**Keywords:** "dog water bowl automatic"
 
-**Search Results Link:** (Enter link to search results)
+**Search Results Link:**  [https://www.amazon.com/s?k=dog+water+bowl+automatic&crid=3IUL36K1ZP34D&sprefix=dog+water+bowl+automatic%2Caps%2C236&ref=nb_sb_noss_1](https://www.amazon.com/s?k=dog+water+bowl+automatic&crid=3IUL36K1ZP34D&sprefix=dog+water+bowl+automatic%2Caps%2C236&ref=nb_sb_noss_1)
 
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 8.  [Automatic Animal Drinking Water Bowl, 304 Stainless Steel Waterer ](https://www.amazon.com/COMVIEE-Automatic-Stainless-Livestock-Dispenser/dp/B0C7Z7RCDL/ref=sr_1_1_sspa?crid=3IUL36K1ZP34D&dib=eyJ2IjoiMSJ9.E78tflxI9n4ha3rBq0-Juc5Xm5oyTDRxD0CVnlYR435Ubb278TQKTpFnuDI12xWT91L2hlA0XmnKvoSmJjqok7CErAmeLUjRf9UzIfGRVueLFF2o-ElfFYiD1Z-ynG8iqkDvbpApBz1dCfu9CnWX_6gXWH1whL_IFYJN2KiVwHU5PIoOUzXC7urICkbvsk2dAi1NH1uREWEJ2ovWF-26XzfOttnHMnATNxuS7lJinfvNfWOjlFDFoTr2cwSkzIss2U-IjJOKIeg0uehPhkwXPUNpIC215crzknigCmb6i5k.leLe005iD5SmZLYLsTnhBNbZCLR1jOLZIaj-t3rS58M&dib_tag=se&keywords=dog+water+bowl+automatic&qid=1789156649&sprefix=dog+water+bowl+automatic%2Caps%2C236&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) < (link to the product)
 
-![](enter image of product)
 
-**(include a picture)**
+![Automatic Animal Drinking Water Bowl, 304 Stainless Steel Waterer](https://m.media-amazon.com/images/I/71MXD3kWrwL._AC_SX679_.jpg)
 
-* Price: 
 
-* Vendor: 
+* Price: $30
 
-* Description: 
+* Vendor: Amazon
+
+* Description: Automatic water dispenser with a float valve. Utilize a float water level floating principle controls the inlet and outlet water switch keeping the bowl full at a constant level.
 
 ##### Positive Comments
 
@@ -340,23 +340,21 @@ title: User Needs and Benchmarking
 
 ### Search #9
 
-**Keywords:** "enter keywords"
+**Keywords:** "watch alarm timer"
 
-**Search Results Link:** (Enter link to search results)
+**Search Results Link:** [https://www.amazon.com/s?k=watch+alarm+timer&crid=2GEROJTP49KDO&sprefix=watch+alarm+time%2Caps%2C220&ref=nb_sb_noss_2](https://www.amazon.com/s?k=watch+alarm+timer&crid=2GEROJTP49KDO&sprefix=watch+alarm+time%2Caps%2C220&ref=nb_sb_noss_2)
 
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 9. [Tabtime Vibrating Alarm Reminder Watch](https://www.amazon.com/TabTime-Vibrating-Reminder-Watch-Black/dp/B08PDKC4JT/ref=sr_1_1_sspa?crid=2GEROJTP49KDO&dib=eyJ2IjoiMSJ9.x4r1UOAFZI82-wAi9ACeJnhBlzU4xfHppzCrmYPFzmeRI-OoIHOwV23M8Pa7wVftldNZcq3IfLtq3PalU0E5xxdrDSnP3wH8SYew-BsZCfb3cIl2rhZavhBPy-VVpUH9aDDfmldOVD1VE8wm92B15INm5Ko6LKvjPK9iJk854cD1z2g1gG6SLtzbmZ9gbEyA5MznEd4yXhsU1CAs_Tq8WtZshALWbxR9Wn6ux8JTigxG2m7V7Elr9AFseRbC1wnqysO3KwPnk-vE_r_wcFhuidcf3zdee3mcNleY7e0R39s.chkhH7I56cUP2Mt3SJoVtjcTavAHdOq9YZKYnYWk6tA&dib_tag=se&keywords=watch%2Balarm%2Btimer&qid=1789156914&sprefix=watch%2Balarm%2Btime%2Caps%2C220&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) < (link to the product)
 
-![](enter image of product)
+![Tabtime Vibrating Alarm Reminder Watch](https://m.media-amazon.com/images/I/71KYFpHB6EL._AC_SX679_.jpg)
 
-**(include a picture)**
+* Price: $22
 
-* Price: 
+* Vendor: Amazon
 
-* Vendor: 
-
-* Description: 
+* Description: Watch has a discrete vibrating reminder. Have up to ten silent alarms per day and utlize the rechargble feature so it can last for extended use without frequent recharging.
 
 ##### Positive Comments
 
@@ -373,7 +371,6 @@ title: User Needs and Benchmarking
 |                        |
 |                                                                                                                                                                                                                                                                                                                                                                                                      |  |
 |                                                                                                                                                                                                                                                                                                                                                                                                      ||
-#### 2. Next Product goes here
 
 
 
