@@ -325,16 +325,16 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-|  |                            |
-|                                                                                                                                                                                        |  |
+|"Very cool & super useful! Doesn’t look like the float assembly will last long (definitely not in the winter) came with an extra one so that’s nice. Would be even better if it was better to begin with but either way I’m glad I purchased and at a fair price. I also read that in the reviews so I knew ahead of time. Hopefully my husband can make a better float assembly later. Overall happy with the purchase. Even came with quick connects for the hose!! Easy to install!"  | 1. Easy to install (explicit)                          |
+|                                                                                                                                                                                        | 2. Able to last in different tempertures (latent) |
 |                                                                                                                                                                                        |                          |
 
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-|                        |
-|                                                                                                                                                                                                                                                                                                                                                                                                      |  |
+|"Constantly running. It never really shuts off."| 1. Mechanism to stop adding water when it is full (explicit)
+|                                                                                                                                                                                                          | 2. Send alert when it is being overfilled (latent) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      ||
 
 
