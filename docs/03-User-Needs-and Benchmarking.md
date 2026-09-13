@@ -155,23 +155,23 @@ title: User Needs and Benchmarking
 
 ### Search #4
 
-**Keywords:** "enter keywords"
+**Keywords:** "pet feeder"
 
-**Search Results Link:** (Enter link to search results)
+**Search Results Link:** [https://www.google.com/search?q=pet+feeder&sca_esv=6446f2814689b8a4&sxsrf=APpeQnuPQioDxkHkdV587KiFO6ifY8ttKw:1789154486227&source=univ&udm=28&ved=1t:6869&ictx=111&biw=1396&bih=750&dpr=1.38 ](https://www.google.com/search?q=pet+feeder&sca_esv=6446f2814689b8a4&sxsrf=APpeQnuPQioDxkHkdV587KiFO6ifY8ttKw:1789154486227&source=univ&udm=28&ved=1t:6869&ictx=111&biw=1396&bih=750&dpr=1.38 )
 
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 1. [PetSafe Timed Cat and Small Dog Feeder with Portion Control FlexFeed Automatic Pet Feeder, 8 Cups/2L, White, 4 lbs.](https://www.petco.com/product/petsafe-timed-cat-and-small-dog-feeder-with-portion-control-flexfeed-automatic-pet-feeder-8-cups2l-white-4-lbs-4637201?cm_mmc=PSH|GGL|OMNI|CC|NA|NA|mSmqFuNsN3cTgzmFr9hQFb|ENT_PSH_GGL_OMNI_CC_NA_PETCO_NA_NA_09032025_COV_PUR-OMNI_PMAX-PLA-LIA_NA_CAT|0|0|0&gclsrc=aw.ds&gad_source=4&gad_campaignid=22487747703&gbraid=0AAAAAD97F15JUD0G2YEx611SR-p3cJL9V&gclid=Cj0KCQjwzY7VBhDwARIsAFtPvBRLXrm8TuUIs3KYZxqxtJ1JJqGKjOGB6Wkywr5oTklvfpmMgFDcSdsaAiLWEALw_wcB) < (link to the product)
 
 ![](enter image of product)
 
 **(include a picture)**
 
-* Price: 
+* Price: $64.99
 
-* Vendor: 
+* Vendor: petco
 
-* Description: 
+* Description: Easy to program and convenient for busy pet parents, the FlexFeed Automatic Pet Feeder helps maintain a consistent and healthy eating routine with as many as 8 meals or snacks per day for up to 2 weeks. With a dishwasher-safe, stainless-steel bowl that's easy to clean, an airtight lid to keep food fresh, and dual-power options, FlexFeed keeps your cat or small dog full, happy and flourishing.
 
 ##### Positive Comments
 
@@ -192,23 +192,23 @@ title: User Needs and Benchmarking
 
 ### Search #5
 
-**Keywords:** "enter keywords"
+**Keywords:** "pet feeder"
 
-**Search Results Link:** (Enter link to search results)
+**Search Results Link:** [https://www.amazon.com/s?k=pet+feeder&crid=2MCUQ299E22GX&sprefix=pet+feeder%2Caps%2C203&ref=nb_sb_noss_1](https://www.amazon.com/s?k=pet+feeder&crid=2MCUQ299E22GX&sprefix=pet+feeder%2Caps%2C203&ref=nb_sb_noss_1)
 
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 1. [Amazon Basics Automatic Pet Water Dispenser and Gravity Food Feeder Set for Cat and Dog, Easy to Clean, 152fl.oz food feeder, 135.3fl.oz water dispenser, Small, Pack of 2](https://www.amazon.com/Amazon-Basics-Automatic-Dispenser-Capacity/dp/B06ZZC83MG/ref=sr_1_9?crid=2MCUQ299E22GX&dib=eyJ2IjoiMSJ9.XsRDHF9uWyQlRI6X90Xk-HNfpwJ0ZRvwO9n2a3aa9lEreZ3vEZgTqEDWoet9IUpZPpNDlnX039NK2PgMdZDoezLnDfjXLI4iXxvw8wmO8P4KxplIugxMk3ptJNeXJP5Rz2ab74PQ9M47DJXRSsgWYQubP3WSKn-biw_3zmKm8JKSOBMYQGwBbFHNcGxQBRQE2Hpa3ZQGjaKKMRoah9pNo_TRFHjP0zF1b6kDLshQASguzCe2eGnOLVJObpepuKKfyLjsx1Rh-G_1TO7gOJR1DYfmjEdcCY5Kfm-dB0CbX4o._SwRU9RXvMaV83zRD2D1aUzdgVVeX7py87wwHjGyQ38&dib_tag=se&keywords=pet%2Bfeeder&qid=1789156406&sprefix=pet%2Bfeeder%2Caps%2C203&sr=8-9&th=1) < (link to the product)
 
 ![](enter image of product)
 
 **(include a picture)**
 
-* Price: 
+* Price: $26.99
 
-* Vendor: 
+* Vendor: amazon
 
-* Description: 
+* Description: W.I.P. (work in progress)
 
 ##### Positive Comments
 
@@ -229,23 +229,24 @@ title: User Needs and Benchmarking
 
 ### Search #6
 
-**Keywords:** "enter keywords"
+**Keywords:** "alarm clock"
 
-**Search Results Link:** (Enter link to search results)
-
+**Search Results Link:** [https://www.amazon.com/s?k=alarm+clock&crid=3MBVRPEN738WG&sprefix=alarm+clock%2Caps%2C273&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_ci_hl-bn-left_1_11
+](https://www.amazon.com/s?k=alarm+clock&crid=3MBVRPEN738WG&sprefix=alarm+clock%2Caps%2C273&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_ci_hl-bn-left_1_11)
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 1. [Amazon Echo Dot (newest model) - Vibrant sounding speaker, Designed for Alexa+, Great for bedrooms, dining rooms and offices, Charcoal](https://www.amazon.com/Amazon-vibrant-helpful-routines-Charcoal/dp/B09B8V1LZ3/ref=sr_1_11_ffob_sspa?crid=3MBVRPEN738WG&dib=eyJ2IjoiMSJ9.JH_HmRHZsDeHkI-EHVcFnagUbTBbZ5ehL9qkLH_yJMtq2X4TaXU0UT8BY93GBBGcmcuuCmlwgtOECbSaOkRuDQ0zK9gy6F7GLGNoYtZwaa3LIE516Kch-g8KUHROgttByRcyFDh_DlUCHvyZuIm5NebeyPMQG1fxaVOKUrXyHx9gXmPdOqNe8Cha-h84yfq5TMZO7gyn_s4tWoJ4LXIgbAoajAba3UKb5cGE9KPamiYvOPZk27-UO-w0lJ_YQUTDxKJEv3NOt-WCOZUEMTQnH-m15aSE-I2wr87nSubBHAM.d_R0zQRlaI1tydpqHFwGQzpL4iu_nN5kSxxBgdXM4vM&dib_tag=se&keywords=alarm%2Bclock&qid=1789156811&sprefix=alarm%2Bclock%2Caps%2C273&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)
+ < (link to the product)
 
 ![](enter image of product)
 
 **(include a picture)**
 
-* Price: 
+* Price: $79.99
 
-* Vendor: 
+* Vendor: amazon
 
-* Description: 
+* Description: W.I.P.
 
 ##### Positive Comments
 
