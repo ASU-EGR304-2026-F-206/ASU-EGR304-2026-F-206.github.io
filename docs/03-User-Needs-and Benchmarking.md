@@ -220,7 +220,7 @@ title: User Needs and Benchmarking
 
 * Vendor: amazon
 
-* Description: W.I.P. (work in progress)
+* Description: Small food dispenser and water dispenser set for dog or cat, Anti-skid rubber feet for grip, side cut-out handles for lifting and gravity keeps it conistsently supplied.
 
 ##### Positive Comments
 
@@ -261,7 +261,7 @@ title: User Needs and Benchmarking
 
 * Vendor: amazon
 
-* Description: W.I.P.
+* Description: A smart speaker design to play music and content throughout your home with it being able to ask Alexa+ to do certain tacks with your voice. 
 
 ##### Positive Comments
 
