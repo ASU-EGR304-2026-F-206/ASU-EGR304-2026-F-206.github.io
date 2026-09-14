@@ -7,7 +7,7 @@ tags:
 
 ## Team Charter
 
-Team 206 strives towards producing high-quality work through clear communication and continuous effort. We consistently hold ourselves accountable to deadlines, support of one another and staying productive in what we need to get done. When challenges arrive we value transparency, mutual respect, and a shared drive to provide our best work, Building something we're proud of.  
+Team 206 strives to produce high-quality, reliable work through clear communication and consistent effort. Just as we hold products accountable for delivering on their promises without hidden gaps, we hold ourselves accountable to our deadlines, to one another, and to staying productive on what needs to get done. We value transparency in our process, surfacing challenges early rather than letting them go unspoken, along with mutual respect and a shared commitment to durability in our work, ensuring what we build holds up under scrutiny. When challenges arise, we address them openly and collaboratively, driven by a shared standard of excellence and pride in the final product we deliver.  
 
 ## Product Mission Statement
 
