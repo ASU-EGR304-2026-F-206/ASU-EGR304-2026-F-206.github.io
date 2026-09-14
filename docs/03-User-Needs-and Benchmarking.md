@@ -307,7 +307,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2. Alarm is loud enough to wake someone up (explicit)   |
 |“A simple easy to use alarm clock. Well made and just the right size for the bedroom. I like the green lights get time, it gives me enough light to move around in the night. Very happy with my purchase!”                                                                                                                                                                                        |3. Clock is easy to use and is an appropriate size for its functionality (Latent)|
 |“Obvious controls, bright screen, and if you put a 9 v. battery in it, it won't stop when the power goes out. And you can take it with you camping or on a trip running on battery. It would be nice if I could lower the screen light at night— it is very bright— but for the price I can't expect that. All in all, a very good buy.”| 4. Clock is convenient to have and use, good battery life and easy to see the time(Explicit)
-||
+
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
@@ -316,7 +316,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                                                                                                                                                                                                                                     | 2. Backup Alarm if there is an issue with the first (latent) |
 |“Bought this product in May. It's now August, and it already doesn't work. It tells the time, but the alarm won't sound. It worked just fine until a few weeks ago. Now the alarm is useless and I have slept through several appointments because this defective piece of junk decided to stop working. Never buy an Amazon basic product. And of course the return date was LAST MONTH. Convenient how these products always tank right after it's too late to return them. Waste of money.”                                                                                                                                                                                                                            |3. The clock may be too simple and lacks good audio components that help the alarm last longer (Latent)|
 | “Worst clock ever. I bought two. I can’t return them now. Always 4 minutes behind. I set the time it stays good for a little while and then it always gets to be four minutes behind both of them.”| 4. The clocks timing can get behind over time (Explicit)
-||
+
 ### Search #8
 
 **Keywords:** "dog water bowl automatic"
@@ -345,7 +345,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2. Able to last in different tempertures (latent) |
 | “I had a plastic version that worked well for several years but eventually cracked due to being in full sun in the morning hours. This metal one replaced it. I did have to put up shade cloth over this one, the metal heats up quite a bit more in the sun than the plastic one did. Works great.”                                                                                                                                                                                       | 3. Easy to set up but should be covered due to metal heating up faster (Explicit)|
 |“Having this puts my mind at ease that my dog will always have fresh water. We attached it to the side of the hose roll up box and as long as you keep the faucet on a tad, the water bowl automatically refills when the water level goes down. I don’t know why I didn’t buy this sooner and was fixing my dog water everyday manually!”| 4. Makes users at ease since its easy to use and requires little management (Explicit)
-||
+
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
@@ -354,7 +354,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                                          | 2. Send alert when it is being overfilled (latent) |
 | “Float is garbage! Either it won't set low enough to allow water flow or it sits too high overflowing bowl!!!”                                                                                                                                                                                                                            |3. Other Components can be cheaply made causing them to malfunction easier. (Explicit)|
 |“There's no drain hole for clean out! I could have constructed my own, but to save time I ordered this as ready to go out of the box. Ha! Now I have to customize a drain hole and plug.”| 4. Bowl could use a drain hole to help keep the water cleaner. (Explicit)
-||
+
 
 ### Search #9
 
@@ -382,7 +382,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        |  2. Have a long lasting charge (explicit) |
 |“I’ve been looking for a quiet alarm, before spending money on an expensive add I came across this one and decided to buy it to check out how it works and how “silent” it was. I was surprised! Inexpensive and does the job! Has 10 alarms but I’ve only used one. It can be a little hard to use since there is only 2 buttons. The vibration is pretty strong that does wake you up without loud alarms to wake your partner. Super light. And battery last for days!”    |3. Clocks pricing is very good for its functionality and is simple to use (Latent)
 |“I love this product! It’s perfect for waking me up without a loud alarm. I’m going to be dorming again in a few days and I’m sure it’ll work great because of how quiet the vibrations are. I’m a medium sleeper and I’ve been able to wake up to it pretty easy.”| 4. The vibrations are quiet and strong nulling the need for an audio alarm. (Explicit)
-||
+
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
@@ -391,7 +391,7 @@ title: User Needs and Benchmarking
 |   "SAVE YOUR MONEY. I got this for the purpose of not waking up my partner in the morning what I didn’t realize is all the alarms are pre set so if your wake up time isn’t one that’s in the pre selection then it’s useless. I could set the clock on the watch to the incorrect time so it goes off when I need it to but honestly that’s confusing af. And it feels cheap"                                                                                                                                                                                                                                                                                                                                                                                                   |2. Customizable times for alarms (explicit)  |
 |“Total crap. We bought one, it lasted a few weeks, and then parts the numbers wouldn't light up - pretty useless if you can't see what the readout says.. We thought we had just gotten a defective one, so we returned and asked for a replacement.. THAT one's number readout screen failed JUST AFTER the return window closed. If I could give zero stars, I would. Don't waste your money.”|3. Clocks internal LED’s could be cheaply made causing it to break frequently. (Explicit)|
 |“Honestly, one of the worst things I’ve ever purchased reason number one it is very weak reason number two the actual mechanism slips out of the band itself constantly number three. It’s very annoying to play around with to change the times and turn on the alarms. not to mention it comes with 10 alarms. If you turn on all 10 they won’t all work.”| 4. The clocks assembly is poorly made and the alarm coding can be finicky at times(Latent)|
-||
+
 
 
 ## Organized Need Statements
