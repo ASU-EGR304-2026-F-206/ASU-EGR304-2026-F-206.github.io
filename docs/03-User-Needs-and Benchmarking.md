@@ -230,6 +230,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2. low maintence required (latent)  |
 |“Perfect for indoor cat(s). Very easy to set up & perfect size. Wish I had thought of this sooner. Would have saved me a lot of trouble trying to keep the cat fed. Simple but functional. I like it.”                                                                                                                                                                                        |3. Product is simple but very well made, making feeding animals easier and less stressful. (Latent)                          |
 |“Black "feet" fall off very easily and go down disposal without noticing until the disposal is turned one and obnoxious sound ensues. Otherwise, love these feeder/waterers. They clean easily, hold appropriate amounts of food and water. Would buy again, but cement the feet into place in the future.”| 4. Products parts could be poorly secured, but the product is very simple to clean otherwise and easy to use. (Explicit)
+
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
@@ -270,6 +271,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2. The ability to set a reminder (explicit) |
 |“I absolutely love my Echo Dot! The setup was quick and easy, and Alexa responds very fast to my commands. The sound quality is excellent for such a compact speaker—clear, loud, and perfect for music. I use it for alarms, reminders, weather updates, music, and controlling my smart devices at home. It has made my daily routine so much easier and more convenient.”                                                                                                                                                                                        | 3. The echo dot is very fast, convenient and efficient. (Explicit)|
 || 4. It makes daily routines easier to develop. (Latent)
+
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
