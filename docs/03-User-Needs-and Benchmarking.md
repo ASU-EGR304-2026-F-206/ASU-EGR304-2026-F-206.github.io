@@ -44,23 +44,23 @@ title: User Needs and Benchmarking
 
 ### Search #1
 
-**Keywords:** "enter keywords"
+**Keywords:** "Alarm Clock"
 
-**Search Results Link:** (Enter link to search results)
-
+**Search Results Link:** [Search Link](https://www.google.com/search?q=alarm+clock&sca_esv=6446f2814689b8a4&rlz=1C1JZAP_enUS964US964&biw=1536&bih=695&sxsrf=APpeQnuQLYi7XwdjOohKAkCvs6fD8S6yrg%3A1789156306262&ei=0lukarfND-jfkPIPgcDb8QE&uact=5&oq=alarm+clock&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2FsYXJtIGNsb2NrMgQQIxgnMg0QABiABBiKBRhDGLEDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDMgoQABiABBiKBRhDSKYUUP0EWJwLcAF4AZABAJgBnwKgAYcGqgEFMi4zLjG4AQPIAQD4AQGYAgWgArgEwgIKEAAYRxjWBBiwA8ICDRAAGIAEGIoFGEMYsAPCAhAQABiABBiKBRhDGLQHGLADwgIOEAAY5AIY1gQYsAPYAQHCAhoQLhjYAhjlBBi4BhjaBhjcBhjIAxiwA9gBAcICGhAuGNwGGLgGGNoGGNgCGOUEGMgDGLAD2AEBwgIHECMYsQIYJ8ICCxAAGIAEGIoFGJECwgIGEAAYBxgewgIHECMYsAIYJ8ICChAAGIAEGA0YsQPCAgcQABiABBgNmAMAiAYBkAYTugYGCAEQARgJkgcDMS40oAfCLbIHAzAuNLgHgATCBwU0LTQuMcgHjQGACAE&sclient=gws-wiz-serp)
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 1. [Hatch Restore 3 - Science backed sleep audio, Circadian Lighting](https://www.amazon.com/Hatch-Restore-Sunrise-Alarm-Machine/dp/B0DLLSCVZW/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1) < (link to the product)
 
-![](enter image of product)
+<img width="668" height="536" alt="Screenshot 2026-09-13 161439" src="https://github.com/user-attachments/assets/6d504bb7-7191-4257-b09b-5088bd072f8a" />
 
-**(include a picture)**
 
-* Price: 
 
-* Vendor: 
 
-* Description: 
+* Price: $169.99
+
+* Vendor: Amazon 
+
+* Description: Alarm Clock that plays soothing noises for sleep and has a Sunset and sunrise simulator to help with waking up naturally. 
 
 ##### Positive Comments
 
@@ -68,44 +68,47 @@ title: User Needs and Benchmarking
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | "I do really like my Hatch. The lights are bright and it does make waking up easier, but there aren't many nice wakeup sounds available on the free version. I also wish I could turn the light on like the sunrise, but without the alarm sounds. I can turn just the light on, but they're solid and not as sunrisey. Overall, It's nice to wake up to the light and I like not having to use my phone's alarm." | 1. Offers an alternative way to wake someone up rather then an alarm (explicit)                           |
 |                                                                                                                                                                                        | 2. Have customizable feature to have light, sound, or both (explicit) |
-|                                                                                                                                                                                        |                          | 
+| “Love the product very easy to control. I disagree with the people saying about stuff for the sounds and a payment fee. Because there are so many good free sounds and I wake up so more peacefully especially this product is very handy for school. Not sure about the battery life just keep it plugged in and you’re good battery. Life is amazing. I love the brightness because you can control how low or bright you want it. The lighting is amazing. You can customize what colors you want very easy to control haven’t had a problem with this product”                                                                                                                                                                                        | 3. Easy to use the alarm clock without needing to pay for anything and battery life is no problem if you have somewhere to plug the alarm clock into.(Explicit)                         | 
+|                                                                                                                                                                                        | 4.Sleep quality can increase with its sounds as well as making waking up feel easier with its sunrise simulator. (Latent)
 
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 |"It doesn’t really make me fall asleep better or wake me up at all. I’ve tired many different settings and have been late a lot."                        |1. Have a physical or auidble cue to assit in waking someone up (Latent)
-|                                                                                                                                                                                                                                                                                                                                                                                                      |2. Offer different features for different types of sleepers (latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      ||
+|            | 2. Offer different features for different types of sleepers (latent)
+|“Now for the tea y'all - the button to turn off the light in the morning doesn’t work, I had to go on my phone to turn off both the light and sound, which kind of defeats the whole purpose of staying off my phone in the morning? BUT THE MAIN THING THAT DROVE ME TO WRITE THIS REVIEW is that you have to pay $4.99 if you want anything more than 20 (mid) sounds to fall asleep to!! Once you download the app, it asks if you want to upgrade to Hatch+ which I didn’t think was necessary seeing as I just spent $170 on this product but you are so limited in choices for sounds to fall asleep/wake up to UNLESS you pay $4.99 a month or $50 a year."                                                                                                                                                                                                                              |3. For the price of the clock itself, more things should be included with it instead of having to pay more. (Explicit) |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 4.Setting up the alarm clock can be a hassle with the secret paywalls that prohibit full use. (Explicit)
 
 
 ### Search #2
 
-**Keywords:** "enter keywords"
+**Keywords:** "Automatic Feeder"
 
-**Search Results Link:** (Enter link to search results)
+**Search Results Link:** [Search Link](https://www.amazon.com/s?k=automatic+feeder&crid=2KI16NPF20IDQ&sprefix=automatic+feeder%2Caps%2C585&ref=nb_sb_noss_1)
 
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 1. [iPettie Camera Automatic Cat Feeder and Water Dispenser, 5G/2.4GHz WiFi](https://www.amazon.com/iPettie-Automatic-Dispenser-Replaceable-Capacity/dp/B0GJS115H7/ref=sr_1_22_sspa?crid=2KI16NPF20IDQ&dib=eyJ2IjoiMSJ9.0vXExXE8JtxhG0gSsFmki-PeHuW89C1AIgRS2GwrotJrEhMAkGn2-iVsH_jdVz-DT8mbJV7nm7nn3Rp_GPs0RHC_Wvr3ceShxE7BAQdPOXqUqoFm1qIgtl6Vo9zUmwuTVy0LxsFyKF6YI3PaI5XFQFXqJkBKVyEG0mAEZZYAEkikCYekyLFdFeOw9mUXLrtnUVEgTux7WzWN37iKW4wXTjC5JpYEQ5A8MdXBmQ9nvS7jP_MHLFve4lThoIN21gxWXxG1BNar-d-tNZzh2b1XeOa26cpaeKbnjZtRm2OZTzo.aA8Ri3umPRvDdQV0nLW1L-lHYpTnVsJEJmUiikM52lE&dib_tag=se&keywords=automatic%2Bfeeder&qid=1789156499&sprefix=automatic%2Bfeeder%2Caps%2C585&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1) < (link to the product)
 
-![](enter image of product)
+<img width="851" height="725" alt="Screenshot 2026-09-13 163641" src="https://github.com/user-attachments/assets/32254e07-ef1f-4a62-a233-a7b480ebdb82" />
 
-**(include a picture)**
 
-* Price: 
 
-* Vendor: 
+* Price: $149.99
 
-* Description: 
+* Vendor: Amazon
+
+* Description: Automatic pet feeder with a gravity water dispenser
 
 ##### Positive Comments
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 |"I loved this so much that I bought another one and then another one! Well, the third one I bought, the water was not dispensing so I contacted customer support and they were beyond amazing! The communication was fantastic and they replaced the feeder. My cats get so excited to hear their food dispense and I love watching them happily eat their food or drink their fresh, clean water. If I could change one thing, I would love for the app to notify e when it’s out of food or water. But since it doesn’t, my pets keep me clued in!"  |  1. Have a feature to let owners know when it is out of food or water (explicit)                          |
-|                                                                                                                                                                                        | 2. Make sure that the water system is able to dispense (explicit) |
-|                                                                                                                                                                                        |                          |
+|                                                                                                                                                                                      | 2. Make sure that the water system is able to dispense (explicit) |
+| “A friend told us about automatic feeders. We bought this one so our puppy could eat in portions at consistent times. I determined that 12 portions is one cup. Set up requires following the directions from the easy to follow booklet. Water dispenser needs to be cleaned frequently as my puppy eats and drinks and kibble falls into water bowl and it gets cloudy. Both bowls come out so they can be cleaned although the water bowl requires you to sort of lift the dispense up to get it out. Overall, it’s a keeper.”                                                                                                                                                                                        | 3. The automatic feeder is easy to set up feeding portions for automatic feedings and is also easy to clean (Explicit)                          |
+|             | 4. The feeder makes it easy for travelgoers so they don't need to worry about feeding times and contaminated water. (Latent) 
 
 ##### Negative Comments
 
@@ -113,28 +116,30 @@ title: User Needs and Benchmarking
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | "Wifi was disconnecting and the dispense amount was not consistent. Sometimes it would not dispense."                       | 1. Need to dispense the correct amount of food (explicit)
 |                                                                                                                                                                                                                                                                                                                                                                                                      |2. Need to reliably despense the food when needed (explicit)   |
-|                                                                                                                                                                                                                                                                                                                                                                                                      ||
+| “Product measurements are totally inaccurate and misleading. Length and width is swapped and they don’t include the feeding tray in the measurements at all. Doesn’t fit, will be returning.”                                                                                                                                                                                                                                                                                                                                                                                                     |3. Product is lacking proper measurements (Explicit) |
+|“Motor broke after 1 month of use. Jams all the time.”| 4. Internal components could be cheap and inefficient (Latent)|
 
 
 ### Search #3
 
-**Keywords:** "enter keywords"
+**Keywords:** "Audio timer"
 
-**Search Results Link:** (Enter link to search results)
+**Search Results Link:** [Search Results](https://www.amazon.com/s?k=audio+timer&crid=3DYNNUSB8BZ8M&sprefix=audio+ti%2Caps%2C296&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_1_8)
 
 ### Selected Products
 
-#### 1. enter link to product < (link to the product)
+#### 1. [Special Supplies Stoplight Audio Visual Timer for Kids with Lights and Stopwatch Timer](https://www.amazon.com/Special-Supplies-Stoplight-Visual-Stopwatch/dp/B0FL3WMNJ3/ref=sr_1_1_sspa?crid=3DYNNUSB8BZ8M&dib=eyJ2IjoiMSJ9.Mu1EciqRLfDTecgbY21M_ZzhnHKB2H0u4asazHMLW22cIXZYpPKdyRx7tG-0YLwN4QGON0oLlJxsPJlWNwbyXixQcSB0JE8xSedmzKzWW14ZUIomYKrA0vhsnDATxqySswpf7jS5QQWqaaO8xiVwGo6_1Orip9roFs1932AwQMwRh-cxuZc2xfp51zArA5Y6FZUtp0C-IFBDmQ_ff9pveblqdKwX7pIamrujo8VLx_uhjjp7rELwjQEXooZjozbdcZw9ok0k6Z8VBorDM7LrSwqp0hmOLWRXGi24iDbbXxQ.LPo3PKAb0BtOoPzg4j4XagnNCDmTzUVszHO8hv4iiBA&dib_tag=se&keywords=audio+timer&qid=1789157025&sprefix=audio+ti%2Caps%2C296&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) < (link to the product)
 
-![](enter image of product)
+<img width="745" height="687" alt="Screenshot 2026-09-13 163954" src="https://github.com/user-attachments/assets/a463e20a-d557-4cd9-953f-f5ffd30f4fe3" />
 
-**(include a picture)**
 
-* Price: 
 
-* Vendor: 
 
-* Description: 
+* Price: $19.99
+
+* Vendor: Amazon
+
+* Description: A timer that has a stoplight to portray time intervals for better interactions and more engagement
 
 ##### Positive Comments
 
