@@ -294,7 +294,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2. Alarm is loud enough to wake someone up (explicit)   |
 |“A simple easy to use alarm clock. Well made and just the right size for the bedroom. I like the green lights get time, it gives me enough light to move around in the night. Very happy with my purchase!”                                                                                                                                                                                        |3. Clock is easy to use and is an appropriate size for its functionality (Latent)|
 |“Obvious controls, bright screen, and if you put a 9 v. battery in it, it won't stop when the power goes out. And you can take it with you camping or on a trip running on battery. It would be nice if I could lower the screen light at night— it is very bright— but for the price I can't expect that. All in all, a very good buy.”| 4. Clock is convenient to have and use, good battery life and easy to see the time(Explicit)
-|stve                        |5.
+|Good clock, cheap price just needed something to keep an eye on time. Never used the alarm clock. Easy to read, easy to set up. decent size. Lights are pretty bright.                        |5. Pretty cheep clock for telling time
 |            | 6.
 
 ##### Negative Comments
@@ -305,8 +305,8 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                                                                                                                                                                                                                                     | 2. Backup Alarm if there is an issue with the first (latent) |
 |“Bought this product in May. It's now August, and it already doesn't work. It tells the time, but the alarm won't sound. It worked just fine until a few weeks ago. Now the alarm is useless and I have slept through several appointments because this defective piece of junk decided to stop working. Never buy an Amazon basic product. And of course the return date was LAST MONTH. Convenient how these products always tank right after it's too late to return them. Waste of money.”                                                                                                                                                                                                                            |3. The alarm's speaker remains reliably functional and audible over the product's lifespan. (Latent)|
 | “Worst clock ever. I bought two. I can’t return them now. Always 4 minutes behind. I set the time it stays good for a little while and then it always gets to be four minutes behind both of them.”| 4. The clock maintains accurate time without drifting. (Explicit)
-|stve                        |5.
-|            | 6.
+|This is NOT a battery powered alarm clock like I thought I was getting. Partially my bad for not reading close enough, but mostly the Amazon algorithm’s fault for pushing Amazon branded products that do not match my search criteria.                       |5. Not a battery powered clock
+|            | 6.clock is missed labled
 
 
 ### Search #8
@@ -348,8 +348,8 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                                          | 2. Send alert when it is being overfilled (latent) |
 | “Float is garbage! Either it won't set low enough to allow water flow or it sits too high overflowing bowl!!!”                                                                                                                                                                                                                            |3. The float and internal components are made of durable materials that resist wear. (Latent)|
 |“There's no drain hole for clean out! I could have constructed my own, but to save time I ordered this as ready to go out of the box. Ha! Now I have to customize a drain hole and plug.”| 4. The bowl includes a drain hole for easy cleaning and water maintenance. (Explicit)
-|stve                        |5.
-|            | 6.
+|"Included instructions were not helpful. The bowl does not have a flat bottom, so is very unstable if you choose not to attach it to the wall, but use it on the ground or floor."                      |5.Instruction on product is not clear
+|            | 6. Not built to be place on flat ground
 
 
 ### Search #9
