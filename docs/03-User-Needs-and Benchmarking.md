@@ -86,10 +86,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                                                                                                                                                                                                                                      |2. Need to reliably despense the food when needed (explicit)   |
 | “Product measurements are totally inaccurate and misleading. Length and width is swapped and they don’t include the feeding tray in the measurements at all. Doesn’t fit, will be returning.”                                                                                                                                                                                                                                                                                                                                                                                                     |3.The listed product measurements accurately reflect its real dimensions. (Explicit) |
 |“Motor broke after 1 month of use. Jams all the time.”| 4. The motor and internal components are durable enough to withstand daily use. (Latent)|
-|The app is okay, the food dispenser part is okay. I wish there was a notification to tell when the food runs out or is low. Works as needed as i like the portion sizes/automation.
-
-
-I absolutely hate the water dispenser part. I stopped using it almost immediately because it harbors so much bacteria.                         |5.Doesn't let the owners know when the food is out in the bowl
+|The app is okay, the food dispenser part is okay. I wish there was a notification to tell when the food runs out or is low. Works as needed as i like the portion sizes/automation. I absolutely hate the water dispenser part. I stopped using it almost immediately because it harbors so much bacteria.                         |5.Doesn't let the owners know when the food is out in the bowl
 |            | 6.Doesn't properly keep the water clean enough to drink for long drations
 
 
@@ -122,7 +119,8 @@ I absolutely hate the water dispenser part. I stopped using it almost immediatel
 |                                                                                                                                                                                        | 2. Have options for the alarm noise for people with sensitive hearing (latent) |
 |“This is a great tool for visual help with timing! It's made really well and looks really cool. It's pretty easy to use. I love the colors. It's bright and fun and makes you want to pay attention to it. This is really helpful for those who have a hard time with "change" and helps you gradually ease into it.”| 3. The product is very interactive and easy to use, making paying attention to the timer easier. (Latent)
 | “Love this little timer. My son is autistic and he appreciates that it gives him a warning before time is up.”| 4. Lights make it easier for those with disabilities to process it better making it more diverse. (Latent)
-                                                                                                                                                                                        
+|"Love this little timer. My son is autistic and he appreciates that it gives him a warning before time is up."                       |5.Gives a heads up before the time is over.
+|            | 6.                                                                                                                                                                                       
 
 ##### Negative Comments
 
@@ -132,7 +130,8 @@ I absolutely hate the water dispenser part. I stopped using it almost immediatel
 |                                                                                                                                                                                                                                                                                                                                                                                                      |2. Need the quality of the product to be inspected prior to selling (latent)  |
 |“Terrible quality, small, lights work in an odd manner very disappointed what a waste of 20 dollars”| 3. The timer is assembled with durable parts that perform consistently. (Explicit)
 |“Worked for a week and then stopped. New batteries weren't the trick. Something appears to be leaking into the battery compartment from the inside creating a bad connection (no corrosion). Buyer beware!”| 4. The battery compartment is sealed to prevent leakage and corrosion. (Latent)
-
+|                       |5.
+|            | 6.  
 
 ### Search #4
 
@@ -163,7 +162,7 @@ I absolutely hate the water dispenser part. I stopped using it almost immediatel
 |                                                                                                                                                                                        | 2. Send a notificafiton when food needs to be added (latent) |
 | “Just bought this and was impressed at how easy it was to set up. We have a Red Standard Poodle puppy and are feeding him every four hours so this is perfect. I love that I can record a message to him as well. He knows exactly when it’s going to release the food so it keeps him on his schedule perfectly.”| 3. Feeder is easy to set up and consistent in its portion size and scheduling.(Explicit)
 |“We’ve really enjoyed this auto feeder. We can schedule morning and evening meals as well as portions. We like the recording feature as well. It’s held up well and is pretty easy to clean.”| 4. Product is easy to clean and makes it easier to check up on your animals.(Latent)
-|stve                        |5.
+|"This feeder has made a major improvement in our ability to control our cat's weight. When we adopted our 10 year old cat from a shelter, he was seriously overweight. He's extremely food motivated and tends to 'scarf and barf'. We needed a way to feed him several small portions over the course of the day without needing to be home every few hours. And that's where this feeder has made a huge difference."                        |5.Can help overweighted cat loss weight over time
 |            | 6.
 
 ##### Negative Comments
@@ -174,8 +173,8 @@ I absolutely hate the water dispenser part. I stopped using it almost immediatel
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2. Able to give food when you want it to (explicit) |
 |“This thing is terrible. A 2 should dispense 1/8 of a cup. It wasn't quite right so I set it to a higher number. It doesn't matter if it's set at 2 or 15, it doesn't even dispense 1/8 a cup. Don't waste your time.”        | 3.The portion dial accurately dispenses the exact labeled amount of food. (Explicit)
 |“I think the idea of this is great, but it wasn’t really necessary for my family. It took up too much space and took more time than just hand feeding my pets. It might be great if a family goes on vacation and leaves pets at home.”| 4. The feeder has a compact footprint that fits easily into small spaces. (Explicit) 
-|stve                        |5.
-|            | 6.
+|In theory, I thought this product would be a godsend to me. In all reality, though it is convenient and appears very durable, the accuracy of setting the customized times for feeding did not work for me. I tried to set alarms and food was dispersed on off times. Maybe that’s just me, but I think it’s worth mentioning. I’ll also say for some weird reason, all 3 of my extremely food motivated dogs refused to eat out of this feeder. I don’t know what that means, if anything?                        |5.Difficalt to set up the feeder to work when wanted to
+|            | 6.Some pet didn't want to eat out of feeder
 
 
 ### Search #5
@@ -207,8 +206,8 @@ I absolutely hate the water dispenser part. I stopped using it almost immediatel
 |                                                                                                                                                                                        | 2. low maintence required (latent)  |
 |“Perfect for indoor cat(s). Very easy to set up & perfect size. Wish I had thought of this sooner. Would have saved me a lot of trouble trying to keep the cat fed. Simple but functional. I like it.”                                                                                                                                                                                        |3. Product is simple but very well made, making feeding animals easier and less stressful. (Latent)                          |
 |“Black "feet" fall off very easily and go down disposal without noticing until the disposal is turned one and obnoxious sound ensues. Otherwise, love these feeder/waterers. They clean easily, hold appropriate amounts of food and water. Would buy again, but cement the feet into place in the future.”| 4. Products parts could be poorly secured, but the product is very simple to clean otherwise and easy to use. (Explicit)
-|stve                        |5.
-|            | 6.
+|"This product is very easy to clean, everything comes off easily with a little twist. The water tank can hold a lot. At first, I was a little skeptical with filling the water to the top, so I was doing half fills. However, you can fill this to the top and it’ll stop itself when it’s full because of the water cap’s mechanism."                        |5. The product is easy to maintain 
+|            | 6. has a lot of water storage
 
 ##### Negative Comments
 
@@ -218,8 +217,8 @@ I absolutely hate the water dispenser part. I stopped using it almost immediatel
 |                                                                                                                                                                                                                                                                                                                                                                                                      |2. Need to be able to work at full capacity (latent)   |
 |“I have set liked it but come to find out water connect part doesn’t stop leaking makes a big Mess !”                                                                                                                                                                                                                                                                                                                                                                                                      |3. The water connection seals tightly to prevent leaking. (Explicit)|
 |“The previous version of the water dispenser works better. The spring washer keeps popping off. The water bottle needs to be inserted perfectly vertical or else it causes the spring washer to pop off. This does not allow the water to flow without reinstalling the spring and washer. It forces you to empty the entire water bottle to retrieve and replace the washer. Food dispenser is great, gravity works! Now we are looking for a replacement.”| 4. The water dispenser stays securely connected regardless of bottle orientation. (Explicit)
-|stve                        |5.
-|            | 6.
+|"If your buying for inside it ok the only problem is the top for the food it doesn’t screw on and it’s loss hard to load the feed . I use mine for outside a storm came up and blew the top off to the feeder."                        |5.The feeders lid is not on their good
+|            | 6.Not built for outdoors
 
 
 ### Search #6
@@ -252,8 +251,8 @@ I absolutely hate the water dispenser part. I stopped using it almost immediatel
 |                                                                                                                                                                                        | 2. The ability to set a reminder (explicit) |
 |“I absolutely love my Echo Dot! The setup was quick and easy, and Alexa responds very fast to my commands. The sound quality is excellent for such a compact speaker—clear, loud, and perfect for music. I use it for alarms, reminders, weather updates, music, and controlling my smart devices at home. It has made my daily routine so much easier and more convenient.”                                                                                                                                                                                        | 3. The echo dot is very fast, convenient and efficient. (Explicit)|
 || 4. It makes daily routines easier to develop. (Latent)
-|stve                        |5.
-|            | 6.
+|I m very happy with my Echo Dot It s easy to set up and use and the sound quality is surprisingly good for its size Alexa responds quickly and is very helpful for playing music, setting alarms, checking the weather, and controlling compatible smart devices.                       |5. sound quality is good
+|            | 6.Helpful at answering questions
 
 ##### Negative Comments
 
@@ -263,8 +262,8 @@ I absolutely hate the water dispenser part. I stopped using it almost immediatel
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 2. Have clear communication feedback (latent) |
 |“Buyer beware, Amazon won't replace this defective item that vibrates so much it makes itself fall off countertops and damage itself. I told India customer service that I didn't want a replacement because this one is too quiet. I asked them if I could do an upgrade to the larger louder one for around $175 and was willing to pay the difference and they can't make that happen.”                                                                                                                                                                                                                                                                                                                                                                                                      |3. The speaker has a stable base that keeps it from vibrating off surfaces. (Explicit)|
 |“The first one I bought worked fine for about two weeks, and then the issues started. When I connected it to a Bluetooth speaker, the sound became rattly and distorted. I tried swapping out speakers, but it wasn’t the speaker’s fault—it was the Echo. So, I replaced it with a new one, and for a while, things were fine. But now, I’ve been screaming at the replacement, trying to get it to respond.”| 4. The device maintains stable audio and connectivity performance over time. (Latent)
-|stve                        |5.
-|            | 6.
+|"The only drawback that I've found with this model, is that sometimes when I'm moving the speaker while it's playing, I must touch something on the top that stops the music. My understanding is that there's some sort of a pause feature on this like a snooze feature by touching the top of the speaker when an alarm is going off, but when the music is playing and I pick up the speakers one-handed, to move it or turn it a different direction, it will pause the music."                        |5.Not built to be a portable speaker
+|            | 6.Does randomly pause music while playing music
 
 
 ### Search #7
