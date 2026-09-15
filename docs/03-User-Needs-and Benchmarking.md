@@ -45,7 +45,6 @@ title: User Needs and Benchmarking
 |“Now for the tea y'all - the button to turn off the light in the morning doesn’t work, I had to go on my phone to turn off both the light and sound, which kind of defeats the whole purpose of staying off my phone in the morning? BUT THE MAIN THING THAT DROVE ME TO WRITE THIS REVIEW is that you have to pay ＄4.99 if you want anything more than 20 (mid) sounds to fall asleep to!! Once you download the app, it asks if you want to upgrade to Hatch+ which I didn’t think was necessary seeing as I just spent ＄170 on this product but you are so limited in choices for sounds to fall asleep/wake up to UNLESS you pay ＄4.99 a month or ＄50 a year."                                                                                                                                                                                          |3. The clock's included sounds and features are sufficient on their own, without requiring a subscription. (Explicit) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 4.The setup process clearly discloses which features are free vs. paid before requiring payment info. (Explicit)
 |Very disappointing. The hardware is good but the app is unusable. There is a lot of potential in this product but they will only realize it when they throw out the current app and rebuild it with ease of use and flexibility in mind.                     |5.the app is is too rigid too and hard to use
-|            | 6.
 
 ### Search #2
 
@@ -119,8 +118,7 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2. Have options for the alarm noise for people with sensitive hearing (latent) |
 |“This is a great tool for visual help with timing! It's made really well and looks really cool. It's pretty easy to use. I love the colors. It's bright and fun and makes you want to pay attention to it. This is really helpful for those who have a hard time with "change" and helps you gradually ease into it.”| 3. The product is very interactive and easy to use, making paying attention to the timer easier. (Latent)
 | “Love this little timer. My son is autistic and he appreciates that it gives him a warning before time is up.”| 4. Lights make it easier for those with disabilities to process it better making it more diverse. (Latent)
-|"Love this little timer. My son is autistic and he appreciates that it gives him a warning before time is up."                       |5.Gives a heads up before the time is over.
-|            | 6.                                                                                                                                                                                       
+|"Love this little timer. My son is autistic and he appreciates that it gives him a warning before time is up."                       |5.Gives a heads up before the time is over.                                                                                                                                                                                    
 
 ##### Negative Comments
 
@@ -130,8 +128,6 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                                                                                                                                                                                                                                      |2. Need the quality of the product to be inspected prior to selling (latent)  |
 |“Terrible quality, small, lights work in an odd manner very disappointed what a waste of 20 dollars”| 3. The timer is assembled with durable parts that perform consistently. (Explicit)
 |“Worked for a week and then stopped. New batteries weren't the trick. Something appears to be leaking into the battery compartment from the inside creating a bad connection (no corrosion). Buyer beware!”| 4. The battery compartment is sealed to prevent leakage and corrosion. (Latent)
-|                       |5.
-|            | 6.  
 
 ### Search #4
 
@@ -163,7 +159,6 @@ title: User Needs and Benchmarking
 | “Just bought this and was impressed at how easy it was to set up. We have a Red Standard Poodle puppy and are feeding him every four hours so this is perfect. I love that I can record a message to him as well. He knows exactly when it’s going to release the food so it keeps him on his schedule perfectly.”| 3. Feeder is easy to set up and consistent in its portion size and scheduling.(Explicit)
 |“We’ve really enjoyed this auto feeder. We can schedule morning and evening meals as well as portions. We like the recording feature as well. It’s held up well and is pretty easy to clean.”| 4. Product is easy to clean and makes it easier to check up on your animals.(Latent)
 |"This feeder has made a major improvement in our ability to control our cat's weight. When we adopted our 10 year old cat from a shelter, he was seriously overweight. He's extremely food motivated and tends to 'scarf and barf'. We needed a way to feed him several small portions over the course of the day without needing to be home every few hours. And that's where this feeder has made a huge difference."                        |5.Can help overweighted cat loss weight over time
-|            | 6.
 
 ##### Negative Comments
 
@@ -295,7 +290,6 @@ title: User Needs and Benchmarking
 |“A simple easy to use alarm clock. Well made and just the right size for the bedroom. I like the green lights get time, it gives me enough light to move around in the night. Very happy with my purchase!”                                                                                                                                                                                        |3. Clock is easy to use and is an appropriate size for its functionality (Latent)|
 |“Obvious controls, bright screen, and if you put a 9 v. battery in it, it won't stop when the power goes out. And you can take it with you camping or on a trip running on battery. It would be nice if I could lower the screen light at night— it is very bright— but for the price I can't expect that. All in all, a very good buy.”| 4. Clock is convenient to have and use, good battery life and easy to see the time(Explicit)
 |Good clock, cheap price just needed something to keep an eye on time. Never used the alarm clock. Easy to read, easy to set up. decent size. Lights are pretty bright.                        |5. Pretty cheep clock for telling time
-|            | 6.
 
 ##### Negative Comments
 
