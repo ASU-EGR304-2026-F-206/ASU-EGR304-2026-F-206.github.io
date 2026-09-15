@@ -33,8 +33,8 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2. Have customizable feature to have light, sound, or both (explicit) |
 | “Love the product very easy to control. I disagree with the people saying about stuff for the sounds and a payment fee. Because there are so many good free sounds and I wake up so more peacefully especially this product is very handy for school. Not sure about the battery life just keep it plugged in and you’re good battery. Life is amazing. I love the brightness because you can control how low or bright you want it. The lighting is amazing. You can customize what colors you want very easy to control haven’t had a problem with this product”                                                                                                                                                                                        | 3. Easy to use the alarm clock without needing to pay for anything and battery life is no problem if you have somewhere to plug the alarm clock into.(Explicit)                         | 
 |                                                                                                                                                                                        | 4.Sleep quality can increase with its sounds as well as making waking up feel easier with its sunrise simulator. (Latent)
-|stve                        |5.
-|            | 6.
+|The best feature about this device is the gradual smart lighting. That is what sold me and the sole reason why I love this thing so much. I am not a morning person. I’m instantly in bad mood if someone else wakes me up including my own alarm I set myself on my phone. Since having this, I’ve been waking up so peacefully and I can honestly say I’ve been in way better moods which says a lot for someone who hates waking up early and loves sleeping.                        |5.Gradual smart lighting is gentler than phone alarms
+|            | 6.Wakes up non morning people in a better mode
 
 ##### Negative Comments
 
@@ -44,7 +44,7 @@ title: User Needs and Benchmarking
 |            | 2. Offer different features for different types of sleepers (latent)
 |“Now for the tea y'all - the button to turn off the light in the morning doesn’t work, I had to go on my phone to turn off both the light and sound, which kind of defeats the whole purpose of staying off my phone in the morning? BUT THE MAIN THING THAT DROVE ME TO WRITE THIS REVIEW is that you have to pay ＄4.99 if you want anything more than 20 (mid) sounds to fall asleep to!! Once you download the app, it asks if you want to upgrade to Hatch+ which I didn’t think was necessary seeing as I just spent ＄170 on this product but you are so limited in choices for sounds to fall asleep/wake up to UNLESS you pay ＄4.99 a month or ＄50 a year."                                                                                                                                                                                          |3. The clock's included sounds and features are sufficient on their own, without requiring a subscription. (Explicit) |
 |                                                                                                                                                                                                                                                                                                                                                                                                      | 4.The setup process clearly discloses which features are free vs. paid before requiring payment info. (Explicit)
-|stve                        |5.
+|Very disappointing. The hardware is good but the app is unusable. There is a lot of potential in this product but they will only realize it when they throw out the current app and rebuild it with ease of use and flexibility in mind.                     |5.the app is is too rigid too and hard to use
 |            | 6.
 
 ### Search #2
@@ -75,8 +75,8 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                      | 2. Make sure that the water system is able to dispense (explicit) |
 | “A friend told us about automatic feeders. We bought this one so our puppy could eat in portions at consistent times. I determined that 12 portions is one cup. Set up requires following the directions from the easy to follow booklet. Water dispenser needs to be cleaned frequently as my puppy eats and drinks and kibble falls into water bowl and it gets cloudy. Both bowls come out so they can be cleaned although the water bowl requires you to sort of lift the dispense up to get it out. Overall, it’s a keeper.”                                                                                                                                                                                        | 3. The automatic feeder is easy to set up feeding portions for automatic feedings and is also easy to clean (Explicit)                          |
 |             | 4. The feeder makes it easy for travelgoers so they don't need to worry about feeding times and contaminated water. (Latent) 
-|stve                        |5.
-|            | 6.
+|It was very simple to put together, looks absolutely sleek, easy to clean, the app has been reliable and even sends a reminder when the dessicant packs should be changed. It's just the right size for my tiny baby and was worth every penny. I have a crazy schedule and it's good to know that my baby is still being well cared for by her private butler lol.                        |5. Model looks nice and don't stick out too much
+|            | 6. Maintenance on the product is easy to do
 
 ##### Negative Comments
 
@@ -86,8 +86,11 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                                                                                                                                                                                                                                      |2. Need to reliably despense the food when needed (explicit)   |
 | “Product measurements are totally inaccurate and misleading. Length and width is swapped and they don’t include the feeding tray in the measurements at all. Doesn’t fit, will be returning.”                                                                                                                                                                                                                                                                                                                                                                                                     |3.The listed product measurements accurately reflect its real dimensions. (Explicit) |
 |“Motor broke after 1 month of use. Jams all the time.”| 4. The motor and internal components are durable enough to withstand daily use. (Latent)|
-|stve                        |5.
-|            | 6.
+|The app is okay, the food dispenser part is okay. I wish there was a notification to tell when the food runs out or is low. Works as needed as i like the portion sizes/automation.
+
+
+I absolutely hate the water dispenser part. I stopped using it almost immediately because it harbors so much bacteria.                         |5.Doesn't let the owners know when the food is out in the bowl
+|            | 6.Doesn't properly keep the water clean enough to drink for long drations
 
 
 ### Search #3
