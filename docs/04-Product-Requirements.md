@@ -8,11 +8,11 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Stakeholders
 
-* **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-* **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-* **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-* **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-* **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+* **Target group** Middle-class working professionals between the age of 20 and 55. These individuals are busy hardworking individuals who have to account for every aspect of their schedules and are on a tight scedule. 
+* **Target purchaser** Target group profile with special attention to individual pet owners. 
+* **Customer service** Prefers low maintenance, easy to follow instructions, and easy to fix complaints.
+* **Marketing & Sales division** Tailor to pet owners that are in need of a solution to make sure that their pets are taken care of.
+* **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, humidity and have a strong and compact, theft, and vandalism-proof packaging.
 
 ## Use Cases
 
@@ -24,7 +24,7 @@ Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. 
 
 ### User Story #2
 
-...
+Dawn is a 44-year-old teacher who has to take her 16-year-old son to school at 6:00 in the morning and just got a new Corgi puppy. She sees on the bag of dog food a dog his size gets 1 and 1/2 cups of dog food. She realizes that when she gives the full 1 and 1/2 cups the dog throws up shortly after, so she needs to break it up into portions throughout the day. The problem is to break it up through the day she would need to feed the dog at times when no one is home and sometimes when her son gets home, he will forget. But with her new dog feeder she is able to set when and how much food is released so her Corgi is able to receive food throughout the day even while she physically isn't there and has enough time to digest and not throw up. 
 
 ## Aspects
 
