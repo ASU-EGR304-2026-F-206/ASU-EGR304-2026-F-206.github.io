@@ -28,16 +28,17 @@ Dawn is a 44-year-old teacher who has to take her 16-year-old son to school at 6
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+The new product design will be based on that of the Pet Feeder with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Producer Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
-  
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+   * 1.1 The product shall be built for the outdoor to give the option for pet owners to feed their pets outside while they are gone. (P7)
+   * 1.2 The product shall be self relient for a week worth of food for two medium dogs. (P10)
+   * 1.3 The product shall be easy to maintain for at less 3 years of contain use. (P8)
+
+2. **Functionality**
+   * 2.1 The product shall let the user to know when it is time to feed their pet
+   * 2.2 The product shall let the user know when the pet feeder is running low
+   * 2.3 The product shall show all the other pet feeders who is the best of the best
 
 ## Requirement Criteria Specifications
 
