@@ -16,12 +16,12 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Use Cases
 
-### User Story #1: Jenna
+### User Story #1: Walter
 
 Walter is a 35-year-old who works at a dog shelter throughout his day he is making sure that each dog is getting the right amount of food they need and makes sure they aren't going hungry. Between making sure the dogs have enough outside/play time, water, and aren't fighting each other sometimes checking each dog bowl can slip his mind. Now with his new automatic pet feeders that he has placed in the dog's kennels he is able to set the amount of food that each dog should get and now he can have a little bit of time to spend elsewhere. And if the feeder needs to get filled there will be a light to tell him the status of amount of food that will notify him that the feeder needs to be refilled.
 
 
-### User Story #2
+### User Story #2: Dawn
 
 Dawn is a 44-year-old teacher who has to take her 16-year-old son to school at 6:00 in the morning and just got a new Corgi puppy. She sees on the bag of dog food a dog his size gets 1 and 1/2 cups of dog food. She realizes that when she gives the full 1 and 1/2 cups the dog throws up shortly after, so she needs to break it up into portions throughout the day. The problem is to break it up through the day she would need to feed the dog at times when no one is home and sometimes when her son gets home, he will forget. But with her new dog feeder she is able to set when and how much food is released so her Corgi is able to receive food throughout the day even while she physically isn't there and has enough time to digest and not throw up. 
 
