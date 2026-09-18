@@ -18,9 +18,8 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ### User Story #1: Jenna
 
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+Walter is a 35-year-old who works at a dog shelter throughout his day he is making sure that each dog is getting the right amount of food they need and makes sure they aren't going hungry. Between making sure the dogs have enough outside/play time, water, and aren't fighting each other sometimes checking each dog bowl can slip his mind. Now with his new automatic pet feeders that he has placed in the dog's kennels he is able to set the amount of food that each dog should get and now he can have a little bit of time to spend elsewhere. And if the feeder needs to get filled there will be a light to tell him the status of amount of food that will notify him that the feeder needs to be refilled.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
 
 ### User Story #2
 
