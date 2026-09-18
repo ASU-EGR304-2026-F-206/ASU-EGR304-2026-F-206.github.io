@@ -36,9 +36,10 @@ The new product design will be based on that of the Pet Feeder with improvements
    * 1.3 The product shall be easy to maintain for at less 3 years of contain use. (P8)
 
 2. **Functionality**
-   * 2.1 The product shall let the user to know when it is time to feed their pet
-   * 2.2 The product shall let the user know when the pet feeder is running low
-   * 2.3 The product shall show all the other pet feeders who is the best of the best
+   * 2.1 The product shall let the user to know when it is time to feed their pet (P10)
+   * 2.2 The product shall let the user know when the pet feeder is running low on food (P10)
+   * 2.3 The product shall let the user know when the pet's water needs changing (P5)
+   * 2.4 The product shall let the user know when the pet feeder is running low on water (P5)
 
 ## Requirement Criteria Specifications
 
