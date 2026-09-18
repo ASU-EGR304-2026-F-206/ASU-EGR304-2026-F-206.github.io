@@ -32,14 +32,14 @@ The new product design will be based on that of the Pet Feeder with improvements
 
 1. **Producer Design**
    * 1.1 The product shall be built for the outdoor to give the option for pet owners to feed their pets outside while they are gone. (P7)
-   * 1.2 The product shall be self relient for a week worth of food for two medium dogs. (P10)
+   * 1.2 The product shall be self reliant for a week worth of food for two medium dogs. (P10)
    * 1.3 The product shall be easy to maintain for at less 3 years of contain use. (P8)
 
 2. **Functionality**
-   * 2.1 The product shall let the user to know when it is time to feed their pet (P10)
-   * 2.2 The product shall let the user know when the pet feeder is running low on food (P10)
-   * 2.3 The product shall let the user know when the pet's water needs changing (P5)
-   * 2.4 The product shall let the user know when the pet feeder is running low on water (P5)
+   * 2.1 The product shall let the user know when it is time to feed their pet. (P10)
+   * 2.2 The product shall let the user know when the pet feeder is running low or is empty on food. (P10)
+   * 2.3 The product shall let the user know when the pet's water needs changing. (P5)
+   * 2.4 The product shall let the user know when the pet feeder is running low  or is empty on water. (P5)
 
 ## Requirement Criteria Specifications
 
