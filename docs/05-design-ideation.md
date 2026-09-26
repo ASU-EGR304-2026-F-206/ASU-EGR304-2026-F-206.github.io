@@ -21,8 +21,10 @@ Above is a ink to our ranking of the features we organized them into categories 
 
 ## Step Four
 
-Add your different product concepts stuff here
 <img width="994" height="952" alt="Pet-Feeder-Mockup (1)" src="https://github.com/user-attachments/assets/a873ca6e-76b0-41b3-8baf-ee29b0bb3534" />
+
+<img width="960" height="720" alt="Cardboard prototype (2)" src="https://github.com/user-attachments/assets/00b9f1c9-a7a1-48dc-9db8-50a3ce5e25e7" />
+
 
 ## Step Five
 
