@@ -8,17 +8,15 @@ Overview of our Brainstorming, and Mock-ups of our automatic pet feeder. Each co
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+[Generating Ideas](https://docs.google.com/spreadsheets/d/1JsgU43wR2RqLS_dOugLTlFD9ctC5pSoCEJuoboHtt4s/edit?usp=sharing)
 
-|                   requirement / need | feature | detail                                                                      |
-| -----------------------------------: | :-----: | --------------------------------------------------------------------------- |
-| product provides clear notifications | buzzer  | the device provides different sounding tones and patterns for each function |
-| product provides clear notifications | speaker | the device can emit full waveforms                                          |
-|                                   .. |   ..    | ..                                                                          |
+<img width="300" height="300" alt="qrcode_405639193_78dc6b30378c9231c1d07ffe4a95bc4e" src="https://github.com/user-attachments/assets/dc034373-2b80-4ffd-abab-689c1b5c9e55" />
 
 ## Step Three
 
-Add your context and tables
+[Ranking Features](https://docs.google.com/spreadsheets/d/14rYSPKzU6le_88QI3B5IAq3_B2Lat62RiwGScZTgRo8/edit?usp=sharing)
+
+<img width="300" height="300" alt="qrcode_405639193_78dc6b30378c9231c1d07ffe4a95bc4e (1)" src="https://github.com/user-attachments/assets/3ac818c6-7bbb-4c2b-9793-923d3710687d" />
 
 ## Step Four
 
