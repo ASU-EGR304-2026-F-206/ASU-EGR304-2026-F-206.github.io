@@ -25,6 +25,8 @@ Above is a ink to our ranking of the features we organized them into categories 
 
 <img width="960" height="720" alt="Cardboard prototype (2)" src="https://github.com/user-attachments/assets/00b9f1c9-a7a1-48dc-9db8-50a3ce5e25e7" />
 
+<img width="1217" height="951" alt="Screenshot 2026-09-25 193025" src="https://github.com/user-attachments/assets/23e90d03-a30d-4cec-a0c0-567c7ad22aa7" />
+
 
 ## Step Five
 
