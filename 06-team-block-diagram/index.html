@@ -848,9 +848,11 @@
   <h1>Team Block Diagram</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p><strong>Bold Text</strong>
-<em>Italic Text</em>
-<strong><em>Bold and Italic Text</em></strong></p>
+<p>As team 206 we are building an automated pet feeder that will not only dispense food but will also monitor how low the food is and alert the user with LEDs and a speaker. Our system is split into three subsystems controlled by their own microchips:
+<strong>Justin Gonzalez - Sensors and User Input:</strong> <em>Uses three photoresistors which detect food level, two buttons for user input and three status LEDs.</em>,
+<strong>AJ Bowers - Motor control:</strong> <em>Drives the motor that will rotate the part that dispenses the food.</em>,
+<strong>Donovan Belt - Audio:</strong> <em>Uses an audio amplifier driving the speaker to play a chime for feeding.</em>
+The boards are connected in which AJ's board is the main hub in the middle, allowing Justin and Donovan boards to connect through an 8-pin ribbon cable, while reserving all pin 8's for ground. Every ribbon cable pin connects to the microcontroller so that all communication between the subsystems goes through it instead of being wired directly to the sensors or actuators.</p>
 <h2 id="research-question">Research Question</h2>
 <ul>
 <li>Bullet Point 1</li>
