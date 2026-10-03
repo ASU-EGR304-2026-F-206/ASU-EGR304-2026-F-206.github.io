@@ -9,6 +9,11 @@ As team 206 we are building an automated pet feeder that will not only dispense 
 **Donovan Belt - Audio:** _Uses an audio amplifier driving the speaker to play a chime for feeding._
 The boards are connected in which AJ's board is the main hub in the middle, allowing Justin and Donovan boards to connect through an 8-pin ribbon cable, while reserving all pin 8's for ground. Every ribbon cable pin connects to the microcontroller so that all communication between the subsystems goes through it instead of being wired directly to the sensors or actuators.
 
+## Team Block Diagram
+<img width="2062" height="912" alt="Team_Block_Diagram_304 drawio" src="https://github.com/user-attachments/assets/343efac2-1568-4e13-b3ff-471f78df3111" />
+Figure 1: Image of the team's block diagram
+
+[Link to Team Block Diagram .drawio](https://drive.google.com/file/d/1Mx9VroMIKU4P2QoKEfkzI6bq_MwS5psE/view?usp=sharing)
 
 ## Research Question
 
@@ -38,10 +43,10 @@ The boards are connected in which AJ's board is the main hub in the middle, allo
 
 ## Conclusions and Future Work
 
-## External Links
+[## External Links
 
 [example link to idealab](https://idealab.asu.edu)
-
+](https://drive.google.com/file/d/1Mx9VroMIKU4P2QoKEfkzI6bq_MwS5psE/view?usp=sharing)
 
 ## Results
 
