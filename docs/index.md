@@ -18,9 +18,18 @@ Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+We’re designing an Automatic Pet Feeder that serves measured meals on a set schedule. Our goal is to help Pets keep a healthy routine even when their owners are at work, in a rush, or away on a trip.
+
+Who We Serve
+Busy pet owners who want peace of mind while away from home or in a time crunch.
+
+Our Team
+
+[Justin Gonzalez], Assignment leader & Meeting Leader: keeps us on schedule and assigns team members with their duties.
+
+[Donovan Belt], Meeting Recorder: Takes notes and records team meetings and attendance, as well as team members duties.
+
+[AJ Bowers], Project Monitor: Ensure the team is staying on schedule and deadlines are met.
 
 
 ## Team Members Datasheet links
