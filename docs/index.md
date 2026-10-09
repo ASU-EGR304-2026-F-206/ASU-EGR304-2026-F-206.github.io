@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Automatic Pet Feeder<br>
 <font size="5">Team 206<br>
 **Submission: December, 07, 2026**<br>
 Fall 2026<br>
