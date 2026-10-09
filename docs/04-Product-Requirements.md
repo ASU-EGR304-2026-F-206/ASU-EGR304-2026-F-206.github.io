@@ -2,7 +2,7 @@
 title: Product Requirements
 ---
 
-## Project Objective
+## Project Objectiv le
 
 This project is all about building a smart automatic pet feeder that makes life easier for busy pet owners. It has an LED indicator that shows how much food is left at a glance for a better overall experience, a cleaner design with possible customization options. We want to reach more middle-income workers and frequent travelers, and we think the LED level indicator alone, green when it's full, yellow when it's getting low, and red when it needs a refill will help the owners, pet sitters, neighbors or anyone else watching the pets have an easier overall experience. We're aiming to match the reliability and portion accuracy of the best feeders already out there while also including easy scheduling options that so many owners look for. We also plan to add a battery backup in case the power goes out while also making it splash and water resistant making it easy to clean, and offer a few different customizable options to better fit owners needs.
 
