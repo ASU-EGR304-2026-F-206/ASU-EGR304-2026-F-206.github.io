@@ -392,27 +392,242 @@ title: User Needs and Benchmarking
 ### First Placement
 [Initial Organization](https://docs.google.com/spreadsheets/d/1edf4MY3dlRNkca6G9Q9t4iPHq33ab8xXkl9Eul-ntqg/edit?usp=sharing)
 
-<img src="https://qr.scan.page/uploads/qr_codes/39SghJ.svg?v=1789437040" alt="Initial table" width="300">
+The below table is our team's initial organization of all the found needs of nine products our team benchmarked. They are grouped by their individual products, then separated based on if they were positive or negative comments. While creating we also placed categories to get started on thinking how the could be organized even further.
+
+## First Placement
+
+| Product # | Type of Review | User Need | Need Type | Category |
+|---|---|---|---|---|
+| 1 | Positive | Offers an alternative way to wake someone up rather then an alarm | Explicit | Customization |
+| 1 | Positive | Have customizable feature to have light, sound, or both | Explicit | Customization |
+| 1 | Positive | Easy to use the alarm clock without needing to pay for anything and battery life is no problem if you have somewhere to plug the alarm clock into. | Explicit | Ease of use |
+| 1 | Positive | Sleep quality can increase with its sounds as well as making waking up feel easier with its sunrise simulator. | Latent | Safety |
+| 1 | Positive | Gradual smart lighting is gentler than phone alarms. | Latent | Ease of use |
+| 1 | Positive | Wakes up non morning people in a better mode. | Explicit | Ease of use |
+| 1 | Negative | Have a physical or auidble cue to assit in waking someone up | Latent | Clarity |
+| 1 | Negative | Offer different features for different types of sleepers | Latent | Customization |
+| 1 | Negative | The clock's included sounds and features are sufficient on their own, without requiring a subscription. | Explicit | Quality parts |
+| 1 | Negative | The setup process clearly discloses which features are free vs. paid before requiring payment info. | Explicit | Ease of use |
+| 1 | Negative | the app is is too rigid too and hard to use. | Explicit | Customization |
+| 2 | Positive | Have a feature to let owners know when it is out of food or water | Explicit | Clarity |
+| 2 | Positive | Make sure that the water system is able to dispense | Explicit | Quality parts |
+| 2 | Positive | The automatic feeder is easy to set up feeding portions for automatic feedings and is also easy to clean | Explicit | Ease of use |
+| 2 | Positive | The feeder makes it easy for travelgoers so they don't need to worry about feeding times and contaminated water. | Latent | Ease of use |
+| 2 | Positive | Model looks nice and don't stick out too much. | Explicit | Quality parts |
+| 2 | Positive | Maintenance on the product is easy to do. | Explicit | Ease of use |
+| 2 | Negative | Need to dispense the correct amount of food | Explicit | Accuracy |
+| 2 | Negative | Need to reliably despense the food when needed | Explicit | Accuracy |
+| 2 | Negative | The listed product measurements accurately reflect its real dimensions. | Explicit | Accuracy |
+| 2 | Negative | The motor and internal components are durable enough to withstand daily use. | Latent | Quality parts |
+| 2 | Negative | Doesn't let the owners know when the food is out in the bowl. | Latent | Clarity |
+| 2 | Negative | Doesn't properly keep the water clean enough to drink for long drations. | Explicit | Safety |
+| 3 | Positive | Clear way to set the timer to what you want | Explicit | Ease of use |
+| 3 | Positive | Have options for the alarm noise for people with sensitive hearing | Latent | Safety |
+| 3 | Positive | The product is very interactive and easy to use, making paying attention to the timer easier. | Latent | Ease of use |
+| 3 | Positive | Lights make it easier for those with disabilities to process it better making it more diverse. | Latent | Ease of use |
+| 3 | Positive | Gives a heads up before the time is over. | Latent | Clarity |
+| 3 | Negative | Needs to work consistently over time | Explicit | Quality parts |
+| 3 | Negative | Need the quality of the product to be inspected prior to selling | Latent | Quality parts |
+| 3 | Negative | The timer is assembled with durable parts that perform consistently. | Explicit | Quality parts |
+| 3 | Negative | The battery compartment is sealed to prevent leakage and corrosion. | Latent | Safety |
+| 4 | Positive | Have a light to notify when there needs to be more food added | Explicit | Clarity |
+| 4 | Positive | Send a notificafiton when food needs to be added | Latent | Customization |
+| 4 | Positive | Feeder is easy to set up and consistent in its portion size and scheduling. | Explicit | Accuracy |
+| 4 | Positive | Product is easy to clean and makes it easier to check up on your animals. | Latent | Ease of use |
+| 4 | Positive | Can help overweighted cat loss weight over time. | Explicit | Accuracy |
+| 4 | Negative | Relase accuarte portions that you set | Explicit | Accuracy |
+| 4 | Negative | Able to give food when you want it to | Explicit | Accuracy |
+| 4 | Negative | The portion dial accurately dispenses the exact labeled amount of food. | Explicit | Accuracy |
+| 4 | Negative | The feeder has a compact footprint that fits easily into small spaces. | Explicit | Storage |
+| 4 | Negative | Difficalt to set up the feeder to work when wanted to. | Explicit | Ease of use |
+| 4 | Negative | Some pet didn't want to eat out of feeder. | Explicit | Quality parts |
+| 5 | Positive | Ready to use once recieved | Explicit | Ease of use |
+| 5 | Positive | low maintence required | Latent | Ease of use |
+| 5 | Positive | Product is simple but very well made, making feeding animals easier and less stressful. | Latent | Safety |
+| 5 | Positive | Products parts could be poorly secured, but the product is very simple to clean otherwise and easy to use. | Explicit | Quality parts |
+| 5 | Positive | The product is easy to maintain. | Explicit | Ease of use |
+| 5 | Positive | has a lot of water storage. | Latent | Ease of use |
+| 5 | Negative | Need prevention for an overflow | Explicit | Accuracy |
+| 5 | Negative | Need to be able to work at full capacity | Latent | Quality parts |
+| 5 | Negative | The water connection seals tightly to prevent leaking. | Explicit | Quality parts |
+| 5 | Negative | The water dispenser stays securely connected regardless of bottle orientation. | Explicit | Safety |
+| 5 | Negative | The feeders lid is not on their good. | Explicit | Quality parts |
+| 5 | Negative | Not built for outdoors. | Latent | Quality parts |
+| 6 | Positive | Easy to set up | Explicit | Ease of use |
+| 6 | Positive | The ability to set a reminder | Explicit | Customization |
+| 6 | Positive | The echo dot is very fast, convenient and efficient. | Explicit | Ease of use |
+| 6 | Positive | It makes daily routines easier to develop. | Latent | Clarity |
+| 6 | Positive | Sound quality is good. | Explicit | Quality parts |
+| 6 | Positive | Helpful at answering questions. | Latent | Accuracy |
+| 6 | Negative | Have a reliable way to communicate with the device | Latent | Clarity |
+| 6 | Negative | Have clear communication feedback | Latent | Clarity |
+| 6 | Negative | The speaker has a stable base that keeps it from vibrating off surfaces. | Explicit | Safety |
+| 6 | Negative | The device maintains stable audio and connectivity performance over time. | Latent | Quality parts |
+| 6 | Negative | Not built to be a portable speaker. | Latent | Quality parts |
+| 6 | Negative | Does randomly pause music while playing music. | Explicit | Accuracy |
+| 7 | Positive | Display is good for bright and dark rooms | Explicit | Customization |
+| 7 | Positive | Alarm is loud enough to wake someone up | Explicit | Quality parts |
+| 7 | Positive | Clock is easy to use and is an appropriate size for its functionality | Latent | Ease of use |
+| 7 | Positive | Clock is convenient to have and use, good battery life and easy to see the time | Explicit | Ease of use |
+| 7 | Positive | Pretty cheep clock for telling time. | Latent | Quality parts |
+| 7 | Negative | Need a reliable alarm to notify someone | Explicit | Quality parts |
+| 7 | Negative | Backup Alarm if there is an issue with the first | Latent | Safety |
+| 7 | Negative | The alarm's speaker remains reliably functional and audible over the product's lifespan. | Latent | Quality parts |
+| 7 | Negative | The clock maintains accurate time without drifting. | Explicit | Accuracy |
+| 7 | Negative | Not a battery powered clock. | Explicit | Quality parts |
+| 7 | Negative | clock is missed labled. | Latent | Clarity |
+| 8 | Positive | Easy to install | Explicit | Ease of use |
+| 8 | Positive | Able to last in different tempertures | Latent | Quality parts |
+| 8 | Positive | Easy to set up but should be covered due to metal heating up faster | Explicit | Ease of use |
+| 8 | Positive | Makes users at ease since its easy to use and requires little management | Explicit | Ease of use |
+| 8 | Positive | Good size for dogs. | Latent | Ease of use |
+| 8 | Positive | Built with quality materials. | Explicit | Quality parts |
+| 8 | Negative | Mechanism to stop adding water when it is full | Explicit | Accuracy |
+| 8 | Negative | Send alert when it is being overfilled | Latent | Safety |
+| 8 | Negative | The float and internal components are made of durable materials that resist wear. | Latent | Quality parts |
+| 8 | Negative | The bowl includes a drain hole for easy cleaning and water maintenance. | Explicit | Ease of use |
+| 8 | Negative | Instruction on product is not clear. | Latent | Clarity |
+| 8 | Negative | Not built to be place on flat ground. | Explicit | Quality parts |
+| 9 | Positive | Not an inconvenience to have on | Explicit | Ease of use |
+| 9 | Positive | Have a long lasting charge | Explicit | Quality parts |
+| 9 | Positive | Clocks pricing is very good for its functionality and is simple to use | Latent | Ease of use |
+| 9 | Positive | The vibrations are quiet and strong nulling the need for an audio alarm. | Explicit | Quality parts |
+| 9 | Positive | Using the watch is easy. | Explicit | Ease of use |
+| 9 | Positive | The watch is comfortable to wear. | Explicit | Quality parts |
+| 9 | Negative | Need a strong vibration capable of waking someone up | Explicit | Quality parts |
+| 9 | Negative | Customizable times for alarms | Explicit | Customization |
+| 9 | Negative | The display's LEDs are durable and remain functional long-term. | Explicit | Quality parts |
+| 9 | Negative | The band and alarm mechanism are securely assembled and easy to operate. | Latent | Safety |
+| 9 | Negative | The durability of the alarm system is not good. | Latent | Quality parts |
+| 9 | Negative | Their is no way to reset the watch. | Explicit | Customization |
+
+
+
 
 ### Grouped with categories
 [Orgainzed into Categories](https://docs.google.com/spreadsheets/d/18zyA4jhF65LRZPNfnstaOSMzwKrBpXuA2_zC14FSQCc/edit?usp=sharing)
 
-<img src="https://qr.scan.page/uploads/qr_codes/4ENQd2.svg?v=1789437627" alt="Categories" width="300">
+The below table is the team's organized, ranked, and complied list of a 100 user need statements. The team discovered six common categories across the 100 needs: Safety, Ease of Use, Quality Parts, Accuracy, Clarity, Customization and ranked based on the team's values.
 
-### Ranked
-1. Safety
+## User Needs by Category
 
-2. Ease of Use
+| Rank | Category | User Need | Need Type |
+|---|---|---|---|
+| 1 | Safety | Sleep quality can increase with its sounds as well as making waking up feel easier with its sunrise simulator. | Latent |
+| 1 | Safety | Have options for the alarm noise for people with sensitive hearing | Latent |
+| 1 | Safety | The battery compartment is sealed to prevent leakage and corrosion. | Latent |
+| 1 | Safety | Product is simple but very well made, making feeding animals easier and less stressful. | Latent |
+| 1 | Safety | The water dispenser stays securely connected regardless of bottle orientation. | Explicit |
+| 1 | Safety | The speaker has a stable base that keeps it from vibrating off surfaces. | Explicit |
+| 1 | Safety | Backup Alarm if there is an issue with the first | Latent |
+| 1 | Safety | Send alert when it is being overfilled | Latent |
+| 1 | Safety | The band and alarm mechanism are securely assembled and easy to operate. | Latent |
+| 1 | Safety | Doesn't properly keep the water clean enough to drink for long drations. | Explicit |
+| 2 | Ease of Use | Easy to use the alarm clock without needing to pay for anything and battery life is no problem if you have somewhere to plug the alarm clock into. | Explicit |
+| 2 | Ease of Use | The setup process clearly discloses which features are free vs. paid before requiring payment info. | Explicit |
+| 2 | Ease of Use | The automatic feeder is easy to set up feeding portions for automatic feedings and is also easy to clean | Explicit |
+| 2 | Ease of Use | The feeder makes it easy for travelgoers so they don't need to worry about feeding times and contaminated water. | Latent |
+| 2 | Ease of Use | Clear way to set the timer to what you want | Explicit |
+| 2 | Ease of Use | The product is very interactive and easy to use, making paying attention to the timer easier. | Latent |
+| 2 | Ease of Use | Lights make it easier for those with disabilities to process it better making it more diverse. | Latent |
+| 2 | Ease of Use | Product is easy to clean and makes it easier to check up on your animals. | Latent |
+| 2 | Ease of Use | Ready to use once recieved | Explicit |
+| 2 | Ease of Use | low maintence required | Latent |
+| 2 | Ease of Use | Easy to set up | Explicit |
+| 2 | Ease of Use | The echo dot is very fast, convenient and efficient. | Explicit |
+| 2 | Ease of Use | Clock is easy to use and is an appropriate size for its functionality | Latent |
+| 2 | Ease of Use | Clock is convenient to have and use, good battery life and easy to see the time | Explicit |
+| 2 | Ease of Use | Easy to install | Explicit |
+| 2 | Ease of Use | Easy to set up but should be covered due to metal heating up faster | Explicit |
+| 2 | Ease of Use | Makes users at ease since its easy to use and requires little management | Explicit |
+| 2 | Ease of Use | The bowl includes a drain hole for easy cleaning and water maintenance. | Explicit |
+| 2 | Ease of Use | Not an inconvenience to have on | Explicit |
+| 2 | Ease of Use | Clocks pricing is very good for its functionality and is simple to use | Latent |
+| 2 | Ease of Use | Gradual smart lighting is gentler than phone alarms. | Latent |
+| 2 | Ease of Use | Wakes up non morning people in a better mode. | Explicit |
+| 2 | Ease of Use | Maintenance on the product is easy to do. | Explicit |
+| 2 | Ease of Use | Difficalt to set up the feeder to work when wanted to. | Explicit |
+| 2 | Ease of Use | The product is easy to maintain. | Explicit |
+| 2 | Ease of Use | has a lot of water storage. | Latent |
+| 2 | Ease of Use | Clock is convenient to have and use, good battery life and easy to see the time | Explicit |
+| 2 | Ease of Use | Good size for dogs. | Latent |
+| 2 | Ease of Use | Using the watch is easy. | Explicit |
+| 3 | Quality Parts | The clock's included sounds and features are sufficient on their own, without requiring a subscription. | Explicit |
+| 3 | Quality Parts | Make sure that the water system is able to dispense | Explicit |
+| 3 | Quality Parts | The motor and internal components are durable enough to withstand daily use. | Latent |
+| 3 | Quality Parts | Needs to work consistently over time | Explicit |
+| 3 | Quality Parts | Need the quality of the product to be inspected prior to selling | Latent |
+| 3 | Quality Parts | The timer is assembled with durable parts that perform consistently. | Explicit |
+| 3 | Quality Parts | Products parts could be poorly secured, but the product is very simple to clean otherwise and easy to use. | Explicit |
+| 3 | Quality Parts | Need to be able to work at full capacity | Latent |
+| 3 | Quality Parts | The water connection seals tightly to prevent leaking. | Explicit |
+| 3 | Quality Parts | The device maintains stable audio and connectivity performance over time. | Latent |
+| 3 | Quality Parts | Alarm is loud enough to wake someone up | Explicit |
+| 3 | Quality Parts | Need a reliable alarm to notify someone | Explicit |
+| 3 | Quality Parts | The alarm's speaker remains reliably functional and audible over the product's lifespan. | Latent |
+| 3 | Quality Parts | Able to last in different tempertures | Latent |
+| 3 | Quality Parts | The float and internal components are made of durable materials that resist wear. | Latent |
+| 3 | Quality Parts | Have a long lasting charge | Explicit |
+| 3 | Quality Parts | The vibrations are quiet and strong nulling the need for an audio alarm. | Explicit |
+| 3 | Quality Parts | Need a strong vibration capable of waking someone up | Explicit |
+| 3 | Quality Parts | The display's LEDs are durable and remain functional long-term. | Explicit |
+| 3 | Quality Parts | Model looks nice and don't stick out too much. | Explicit |
+| 3 | Quality Parts | Some pet didn't want to eat out of feeder. | Explicit |
+| 3 | Quality Parts | The feeders lid is not on their good. | Explicit |
+| 3 | Quality Parts | Not built for outdoors. | Latent |
+| 3 | Quality Parts | Sound quality is good. | Explicit |
+| 3 | Quality Parts | Not built to be a portable speaker. | Latent |
+| 3 | Quality Parts | Pretty cheep clock for telling time. | Latent |
+| 3 | Quality Parts | Not a battery powered clock. | Explicit |
+| 3 | Quality Parts | Built with quality materials. | Explicit |
+| 3 | Quality Parts | Not built to be place on flat ground. | Explicit |
+| 3 | Quality Parts | The watch is comfortable to wear. | Explicit |
+| 3 | Quality Parts | The durability of the alarm system is not good. | Latent |
+| 4 | Accuracy | Need to dispense the correct amount of food | Explicit |
+| 4 | Accuracy | Need to reliably despense the food when needed | Explicit |
+| 4 | Accuracy | The listed product measurements accurately reflect its real dimensions. | Explicit |
+| 4 | Accuracy | Feeder is easy to set up and consistent in its portion size and scheduling. | Explicit |
+| 4 | Accuracy | Relase accuarte portions that you set | Explicit |
+| 4 | Accuracy | Able to give food when you want it to | Explicit |
+| 4 | Accuracy | The portion dial accurately dispenses the exact labeled amount of food. | Explicit |
+| 4 | Accuracy | Need prevention for an overflow | Explicit |
+| 4 | Accuracy | The clock maintains accurate time without drifting. | Explicit |
+| 4 | Accuracy | Mechanism to stop adding water when it is full | Explicit |
+| 4 | Accuracy | Can help overweighted cat loss weight over time. | Explicit |
+| 4 | Accuracy | Helpful at answering questions. | Latent |
+| 4 | Accuracy | Does randomly pause music while playing music. | Explicit |
+| 5 | Clarity | Have a physical or auidble cue to assit in waking someone up | Latent |
+| 5 | Clarity | Have a feature to let owners know when it is out of food or water | Explicit |
+| 5 | Clarity | Have a light to notify when there needs to be more food added | Explicit |
+| 5 | Clarity | It makes daily routines easier to develop. | Latent |
+| 5 | Clarity | Have a reliable way to communicate with the device | Latent |
+| 5 | Clarity | Have clear communication feedback | Latent |
+| 5 | Clarity | Doesn't let the owners know when the food is out in the bowl. | Latent |
+| 5 | Clarity | Gives a heads up before the time is over. | Latent |
+| 5 | Clarity | clock is missed labled. | Latent |
+| 5 | Clarity | Instruction on product is not clear. | Latent |
+| 6 | Customization | Offers an alternative way to wake someone up rather then an alarm | Explicit |
+| 6 | Customization | Have customizable feature to have light, sound, or both | Explicit |
+| 6 | Customization | Have a physical or auidble cue to assit in waking someone up | Latent |
+| 6 | Customization | Send a notificafiton when food needs to be added | Latent |
+| 6 | Customization | The ability to set a reminder | Explicit |
+| 6 | Customization | Display is good for bright and dark rooms | Explicit |
+| 6 | Customization | Customizable times for alarms | Explicit |
+| 6 | Customization | the app is is too rigid too and hard to use. | Explicit |
+| 6 | Customization | Their is no way to reset the watch. | Explicit |
 
-3. Quality Parts
+### Team Ranking of Categories
 
-4. Accuracy
+| Rank | Category | # of User Needs |
+|---|---|---|
+| 1 | Safety | 10 |
+| 2 | Ease of Use | 29 |
+| 3 | Quality Parts | 31 |
+| 4 | Accuracy | 13 |
+| 5 | Clarity | 10 |
+| 6 | Customization | 9 |
 
-5. Clarity
-
-6. Customization
-
-## Compiled list of user Needs
+## Team's Most Valued Needs
 
 1. The device will be easy to set up and operate
  
