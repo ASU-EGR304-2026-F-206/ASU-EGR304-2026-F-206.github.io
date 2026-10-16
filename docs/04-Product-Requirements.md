@@ -60,9 +60,9 @@ The new product design will be based on that of the Pet Feeder with improvements
    * 6.2 The product shall be able to be mass produced
 
 7. **Safety**
-   *7.1 The product shall not blow up in flames
-   *7.2 The product shall not collect bacteria while in use
-   *7.3 The product shall not be releasing toxic fumes in the air
+   * 7.1 The product shall not blow up in flames
+   * 7.2 The product shall not collect bacteria while in use
+   * 7.3 The product shall not be releasing toxic fumes in the air
 
 ## Requirement Criteria Specifications
 
