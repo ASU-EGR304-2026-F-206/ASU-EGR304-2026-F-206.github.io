@@ -41,28 +41,26 @@ The new product design will be based on that of the Pet Feeder with improvements
    * 2.4 The product shall let the user know when the pet feeder is running low  or is empty on water. (P5)
 
 3. **Interactivity**
-   * 3.1 The product shall be easy to understand the function of it
-   * 3.2 The product shall 
-   * 3.3  The product shall
+   * 3.1 The product shall be easy to understand the function of it (P8)
 
 4. **User Experience**
-   * 4.1 The product shall be easy to use
-   * 4.2 The product shall fit in the room it was put in
-   * 4.3 The product shall not break within at least 3 years
+   * 4.1 The product shall be easy to use (P8)
+   * 4.2 The product shall fit in the room it was put in (P5)
+   * 4.3 The product shall not break within at least 3 years (P7)
 
 5. **Customization**
-   * 5.1 The product shall be able to play custom sounds
-   * 5.2 The product shall be able to set it for the desired times
-   * 5.3 The product shall be able to have set food amounts for their pet
+   * 5.1 The product shall be able to play custom sounds (P5)
+   * 5.2 The product shall be able to set it for the desired times (P9)
+   * 5.3 The product shall be able to have set food amounts for their pet (P7)
 
 6. **Manufacturing**
-   * 6.1 The product shall be able to be cheap to build
-   * 6.2 The product shall be able to be mass produced
+   * 6.1 The product shall be able to be cheap to build (P7)
+   * 6.2 The product shall be able to be mass produced (P5)
 
 7. **Safety**
-   * 7.1 The product shall not blow up in flames
-   * 7.2 The product shall not collect bacteria while in use
-   * 7.3 The product shall not be releasing toxic fumes in the air
+   * 7.1 The product shall not blow up in flames (P10)
+   * 7.2 The product shall not collect bacteria while in use (P8)
+   * 7.3 The product shall not be releasing toxic fumes in the air (P7)
 
 ## Requirement Criteria Specifications
 
