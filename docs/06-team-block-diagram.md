@@ -10,7 +10,9 @@ As team 206 we are building an automated pet feeder that will not only dispense 
 The boards are connected in which AJ's board is the main hub in the middle, allowing Justin and Donovan boards to connect through an 8-pin ribbon cable, while reserving all pin 8's for ground. Every ribbon cable pin connects to the microcontroller so that all communication between the subsystems goes through it instead of being wired directly to the sensors or actuators.
 
 ## Team Block Diagram
-<img width="1992" height="760" alt="Team_Block_Diagram_304 drawio (2)" src="https://github.com/user-attachments/assets/a3db5627-098a-45a2-b15e-c56c009e5aea" />
+
+<img width="1992" height="760" alt="Team_Block_Diagram_304 drawio (2)" src="https://github.com/user-attachments/assets/fecc6ee4-3756-41da-a4a0-25badb41b9b8" />
+
 
 
 Figure 1: Image of the team's block diagram
