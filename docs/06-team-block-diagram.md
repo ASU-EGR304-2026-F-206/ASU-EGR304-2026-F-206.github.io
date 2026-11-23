@@ -20,7 +20,9 @@ Figure 1: Image of the team's block diagram
 [Link to Team Block Diagram .drawio](https://drive.google.com/file/d/1Mx9VroMIKU4P2QoKEfkzI6bq_MwS5psE/view?usp=sharing)
 
 ## Team Connection
+
 Connector between Justin and AJ
+
 |**Pin**   |**From**  | **To**   | **Type** |**Description**|
 |----------|----------|----------|----------|----------|
 |1|-|-|-|not used|
