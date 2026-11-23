@@ -19,20 +19,20 @@ Figure 1: Image of the team's block diagram
 
 [Link to Team Block Diagram .drawio](https://drive.google.com/file/d/1Mx9VroMIKU4P2QoKEfkzI6bq_MwS5psE/view?usp=sharing)
 
-## Research Question
+## Team Connection
+Connector between Justin and AJ
+|**Pin**   |**From**  | **To**   | **Type** |**Description**|
+|----------|----------|----------|----------|----------|
+|1|-|-|-|not used|
+|2|-|-|-|not used|
+|3|Justin (RB2)|AJ (RF6)|0V / 5V Digital| Spare digital signal |
+|4|Justin (RC2)|AJ (RF4)|0V / 5V Digital|Send fill signal from when empty is exposed until top sensor is covered |
+|5|Justin (RC3)|AJ (RF6)|0V / 5V Digital| Spare digital signal|
+|6|-|-|-|not used|
+|7|-|-|-|not used|
+|8|Ground|Ground|Ground|Ground|
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
-## Images
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)  
-**Figure 2:** Here is a picture of an image linked on the internet
-
-
-![dead bug circuit](../image/imageGoal.JPG){style="width:350px;"}  
-**Figure 2:** Here is a picture from the image folder on my local site, with css formatting to make it smaller
 
 <!-- 
 ![showcase](../image/innovation_showcase_Sp-2025.jpg)  
