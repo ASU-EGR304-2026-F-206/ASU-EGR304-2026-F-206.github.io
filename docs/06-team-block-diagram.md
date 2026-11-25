@@ -34,6 +34,18 @@ Connector between Justin and AJ
 |7|-|-|-|not used|
 |8|Ground|Ground|Ground|Ground|
 
+### Connector between AJ and Donovan
+
+| Pin | From | To | Type | Description |
+|-----|------|----|------|-------------|
+| 1 | AJ (RC1) | Donovan (RB0) | 0V / 5V Digital | Play feeding chime |
+| 2 | AJ (RD3) | Donovan (RB1) | 0V / 5V Digital | Play alert tone |
+| 3 | - | - | - | not used |
+| 4 | - | - | - | not used |
+| 5 | - | - | - | not used |
+| 6 | - | - | - | not used |
+| 7 | - | - | - | not used |
+| 8 | Ground | Ground | Ground | Ground |
 
 
 <!-- 
